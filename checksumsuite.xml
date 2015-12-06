@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/Squidly271/checksum/master/plugins/checksum.plg</PluginURL>
+<PluginAuthor>Squid</PluginAuthor>
+<Beta>True</Beta>
+<Category>Tools:System</Category>
+<Name>Checksum Suite</Name>
+<Description>
+Automatically create md5 / sha / blake2 checksums for newly written files on the array.  Check for corruption.  Beta: create and repair corruptions using par2 sets
+</Description>
+<Support>http://lime-technology.com/forum/index.php?topic=43396.0</Support>
+<Icon>https://raw.githubusercontent.com/Squidly271/checksum/master/source/checksum/usr/local/emhttp/plugins/checksum/images/checksum.png</Icon>
+</Containers>
+
