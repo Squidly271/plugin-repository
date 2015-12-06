@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/Squidly271/UsefulLinks/master/useful_links.plg</PluginURL>
+<PluginAuthor>Squid</PluginAuthor>
+<Beta>True</Beta>
+<Category>Other:</Category>
+<Name>Useful Links</Name>
+<Description>
+A simple plugin to display some helpful links for operation and diagnosis of your server.  Links are updated very infrequently.  Access the plugin through the Tools tab (Help)
+</Description>
+<Support>http://lime-technology.com/forum/index.php?topic=39259.0</Support>
+<Icon>https://cdn2.iconfinder.com/data/icons/web-browser/256/4.png</Icon>
+</Containers>
+
