@@ -4,6 +4,7 @@
 <PluginURL>https://raw.githubusercontent.com/Squidly271/UsefulLinks/master/useful_links.plg</PluginURL>
 <PluginAuthor>Squid</PluginAuthor>
 <Beta>False</Beta>
+<MinVer>6.0</MinVer>
 <Category>Other:</Category>
 <Name>Useful Links</Name>
 <Description>
