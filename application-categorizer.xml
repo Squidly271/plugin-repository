@@ -6,7 +6,7 @@
 <Beta>False</Beta>
 <Category>Other:</Category>
 <Name>Application Categorizer</Name>
-<MinVer>6.7</MinVer>
+<MinVer>6.0</MinVer>
 <Description>
 This plugin is for application developers ONLY.  It will create the category entries for application templates so that Community Applications can display the apps correctly.  (Either docker apps or plugins)
 </Description>
