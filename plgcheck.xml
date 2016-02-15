@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/Squidly271/plgcheck/master/plugins/plgcheck.plg</PluginURL>
+<PluginAuthor>Squid</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:System</Category>
+<Name>Plugin Notifier Fix</Name>
+<Description>
+A hotfix plugin to fix broken update notifications for plugins
+</Description>
+<Support></Support>
+<Icon>http://cdn.mysitemyway.com/etc-mysitemyway/icons/legacy-previews/icons-256/green-jelly-icons-symbols-shapes/019261-green-jelly-icon-symbols-shapes-puzzle4-ps.png</Icon>
+</Containers>
+
