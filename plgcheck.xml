@@ -6,6 +6,7 @@
 <Beta>False</Beta>
 <Category>Tools:System</Category>
 <Name>Plugin Notifier Fix</Name>
+<Licence>Public Domain</Licence>
 <Description>
 A hotfix plugin to fix broken update notifications for plugins
 </Description>
