@@ -7,6 +7,7 @@
 <MinVer>6.0</MinVer>
 <Category>Other:</Category>
 <Name>Useful Links</Name>
+<Licence>Public Domain</Licence>
 <Description>
 A simple plugin to display some helpful links for operation and diagnosis of your server.  Links are updated very infrequently.  Access the plugin through the Tools tab (Help)
 </Description>
