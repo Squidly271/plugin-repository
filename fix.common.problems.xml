@@ -13,6 +13,7 @@ A plugin designed to find and suggest solutions to common unRaid configuration e
 <Changes>
 ###2016-05-08###
 Initial Release
+</Changes>
 <Support>http://lime-technology.com/forum/index.php?topic=48972.0</Support>
 <Icon>https://raw.githubusercontent.com/Squidly271/fix.common.problems/master/source/fix.common.problems/usr/local/emhttp/plugins/fix.common.problems/images/FixIt.png</Icon>
 </Containers>
