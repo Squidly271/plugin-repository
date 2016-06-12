@@ -9,10 +9,93 @@
 <Description>
 A plugin designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2016-05-08</Date>
+<Date>2016-06-11</Date>
 <Changes>
+###2016-06-11###
+- Better appdata determination
+- More forgiving determination of cache only shares on array
+
+###2016-06-04a###
+- Add in a Docker Safe New Permissions utility (Tools Tab)
+
+###2016-06-04###
+- Add in warning for unRaid OS not current
+
+###2016-06-03###
+- Add in driver check for CPU throttling
+- Check docker apps for improper setting (wrong section) of extra parameters
+- Ability to not log ignored entries
+
+###2016-05-29###
+- Finally fix Crashplan webUI issues
+- Check for sharenames same as disknames
+- Check for cacheonly shares but not cache drive
+- Add exception for NVMe drives showing HPA
+- Fix scan time aberration if no errors found
+
+###2016-05-28###
+- Fix some logging issues
+
+###2016-05-26###
+- Fix webUI changes detection if special characters present
+- Downgrade fix common problems and CA not set to auto update to be warnings
+- More forgiving determination of cache only shares (and files on array)
+- Fix not being able to ignore if ' present in description
+- Fix some wording inconsistencies with ignore pop up
+
+###2016-05-23###
+- Only scan for errors when entering webpage if no errors already logged
+- Added in checks for moderated / blacklisted docker applications
+- Added in checks for plugins incompatible with your unraid version
+- Added in checks for changed webUI on docker apps
+
+###2016-05-22###
+- Fix array non started error when not using user shares
+- Add in ps aux logging to troubleshooting mode
+- Add in free memory logging to troubleshooting mode
+- Add in hack attack detection
+
+###2016-05-19###
+- Added in troubleshooting mode
+- Checks for wrong permissions on shares
+- Checks for improper shutdown
+
+###2016-05-14###
+- Fix (hopefully) false positive HPA when using Areca controllers
+- Added ability to ignore certain errors / warnings
+
+###2016-05-13a###
+- Removed check for control characters in filenames
+- Added Checks for dockers not running in same network mode as what author intended
+- Added in checks for HPA
+- Added in checks for illegal suffixes on cachefloor settings
+- Added in checks for cache floor larger than cache drive
+- Added in checks for cache free space less than cache floor
+- Added in check for array started
+- Fix false positive for implied array only files on cache
+- Fix false positive if docker container had no ports in template
+
+###2016.05-13###
+- Added in ad blocker checking (thx bonienl)
+- Added in illegal character checks in share names
+- Fixed bug preventing some docker checks from running
+
+###2016-05-10b###
+- Added in ability for user defined scripts to run
+- Ability to only check spun up disks for problems
+- Check installed docker apps for changed container ports
+
+###2016-05-10###
+- Further enhance FTP checks
+- Add installed plugin compatibility tests
+
+###2016-05-09###
+- Fix cache pool invalid file system
+- Add notification checks
+- Enhance FTP checks
+
 ###2016-05-08###
-Initial Release
+- Initial Release
 </Changes>
 <Support>http://lime-technology.com/forum/index.php?topic=48972.0</Support>
 <Icon>https://raw.githubusercontent.com/Squidly271/fix.common.problems/master/source/fix.common.problems/usr/local/emhttp/plugins/fix.common.problems/images/FixIt.png</Icon>
