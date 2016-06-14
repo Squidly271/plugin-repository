@@ -99,5 +99,7 @@ A plugin designed to find and suggest solutions to common unRaid configuration e
 </Changes>
 <Support>http://lime-technology.com/forum/index.php?topic=48972.0</Support>
 <Icon>https://raw.githubusercontent.com/Squidly271/fix.common.problems/master/source/fix.common.problems/usr/local/emhttp/plugins/fix.common.problems/images/FixIt.png</Icon>
+<DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
+<DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=7M7CBCVU732XG</DonateLink>
 </Containers>
 
