@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/Squidly271/user.links/master/plugins/user.scripts.plg</PluginURL>
+<PluginAuthor>Andrew Zawadzki</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:System</Category>
+<Name>User Scripts</Name>
+<Description>
+A plugin designed to be a front end to execute user scripts without having to drop down to the command line
+</Description>
+<Date>2016-06-25</Date>
+<Changes>
+###2016-06-11###
+- Initial Release
+</Changes>
+<Support>http://lime-technology.com/forum/index.php?topic=49992.0</Support>
+<Icon>https://raw.githubusercontent.com/Squidly271/fix.common.problems/master/source/user.scripts/usr/local/emhttp/plugins/user.scripts/images/user.scripts.png</Icon>
+<DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
+<DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=7M7CBCVU732XG</DonateLink>
+</Containers>
+
