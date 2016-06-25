@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
 <Plugin>True</Plugin>
-<PluginURL>https://raw.githubusercontent.com/Squidly271/user.links/master/plugins/user.scripts.plg</PluginURL>
+<PluginURL>https://raw.githubusercontent.com/Squidly271/user.scripts/master/plugins/user.scripts.plg</PluginURL>
 <PluginAuthor>Andrew Zawadzki</PluginAuthor>
 <Beta>False</Beta>
 <Category>Tools:System</Category>
