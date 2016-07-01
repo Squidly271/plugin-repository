@@ -9,9 +9,22 @@
 <Description>
 A plugin designed to be a front end to execute user scripts without having to drop down to the command line.
 </Description>
-<Date>2016-06-25</Date>
+<Date>2016-07-01</Date>
 <Changes>
-###2016-06-25###
+###2016.07.01
+- Add in ability to download the script log files
+
+###2016.06.30
+- Add in schedules for background scripts
+
+###2016.06.28
+- Add in background logging
+- Fixed: User scripts with spaces would not execute
+
+###2016.06.26
+- Add in ability to start as a background task
+
+###2016.06.25
 - Initial Release
 </Changes>
 <Support>http://lime-technology.com/forum/index.php?topic=49992.0</Support>
