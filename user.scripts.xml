@@ -9,8 +9,21 @@
 <Description>
 A plugin designed to be a front end to execute user scripts without having to drop down to the command line.
 </Description>
-<Date>2016-07-01</Date>
+<Date>2016-08-01</Date>
 <Changes>
+###2016.08.01
+- Fixed: Scripts using an interpreter other than bash wouldn't run on a schedule
+
+###2016.07.16
+- If an interpreter designation line is present in the script, do not add #!/bin/bash
+
+###2016.07.12
+- Added ability to remove built-in scripts
+
+###2016.07.02
+- Fixed: /tmp/user.scripts folder not being created on cold boot without entering UI page
+
+
 ###2016.07.01
 - Add in ability to download the script log files
 

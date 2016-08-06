@@ -2,15 +2,32 @@
 <Containers>
 <Plugin>True</Plugin>
 <PluginURL>https://raw.githubusercontent.com/Squidly271/fix.common.problems/master/plugins/fix.common.problems.plg</PluginURL>
-<PluginAuthor>Squid</PluginAuthor>
+<PluginAuthor>Andrew Zawadzki</PluginAuthor>
 <Beta>False</Beta>
 <Category>Tools:System</Category>
 <Name>Fix Common Problems</Name>
 <Description>
 A plugin designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2016-06-25</Date>
+<Date>2016-08-06</Date>
 <Changes>
+###2016-08-06###
+- Skip appdata tests within /mnt/user on 6.2-rc3+
+
+###2016-07-08###
+- Relegate permission tests to strictly the extended tests
+- Fix error on plugin checks if appfeed unable to download
+
+###2016-07-03###
+- Adjustable excluded shares on extended tests and new perms
+
+###2016-06-26###
+- Suppress error on port checks if docker is bridge mode and no ports defined
+
+###2016-06-24###
+- Add in Extended Checks On Files / Folders
+
+
 ###2016-06-11###
 - Better appdata determination
 - More forgiving determination of cache only shares on array
