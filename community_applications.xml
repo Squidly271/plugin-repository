@@ -7,7 +7,7 @@
 <Category>Tools:System</Category>
 <Name>Community Applications</Name>
 <Description>
-This plugin will allow you to easily search for and add any of the unRaid docker or plugin applications, along with some related optional utilities (automatic updates of plugins, backup of appdata shares)
+CA -> AKA Apps Tab  is more than just searching for and installing docker and plugin applications.  It also offers automatic updates of plugins, scheduled backups of your flashdrive, appdata, resource monitor, cleaning up of appdata shares.
 </Description>
 <Date>2016-08-03</Date>
 <Changes>
