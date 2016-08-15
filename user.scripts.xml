@@ -9,8 +9,12 @@
 <Description>
 A plugin designed to be a front end to execute user scripts without having to drop down to the command line.
 </Description>
-<Date>2016-08-01</Date>
+<Date>2016-08-14</Date>
 <Changes>
+###2016.08.14
+- Added Schedule For Start And Stop of Array
+
+
 ###2016.08.01
 - Fixed: Scripts using an interpreter other than bash wouldn't run on a schedule
 
