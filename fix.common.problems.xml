@@ -9,8 +9,11 @@
 <Description>
 A plugin designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2016-08-06</Date>
+<Date>2016-08-20</Date>
 <Changes>
+###2016-08-20###
+- Suppress error messages if unable to download application feed
+
 ###2016-08-06###
 - Skip appdata tests within /mnt/user on 6.2-rc3+
 
