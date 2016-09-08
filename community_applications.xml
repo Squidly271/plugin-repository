@@ -11,6 +11,15 @@ CA -> AKA Apps Tab  is more than just searching for and installing docker and pl
 </Description>
 <Date>2016-09-03</Date>
 <Changes>
+###2016.09.07###
+- Fixed VM XML's not backing up under certain circumstances
+- Do not delete XML backups if source is no longer available
+- Added Dynamic adjustment of templates based upon user input
+
+###2016.09.06###
+- Fixed Backup/Restore settings module not working
+- Added Selectable display for Random App Of Day
+
 ###2016.09.03###
 - Added in VM XML backups
 - Major rewrite of display engine (faster, far smaller)
