@@ -9,8 +9,22 @@
 <Description>
 A plugin designed to minimize the damage that a ransomware attack can potentially cause to your server.  Visit the support thread for complete details.
 </Description>
-<Date>2016-10-02</Date>
+<Date>2016-10-07</Date>
 <Changes>
+###2016.10.07###
+- Beta: Stop AFP along with SMB
+- Added: Realtime popups of status within Ransomware's Settings/ransomware
+- Enhanced: Faster Stopping of SMB
+- Fixed: An attack followed by a reboot wouldn't let you restore proper permissions
+
+###2016.10.06###
+- Add in PDF bait file
+- Add in SMB Readonly mode option
+- Add in ability to set Readonly mode anytime
+- Add in ability to include appdata for bait
+- Add in ability to change emhttp communication port
+- Add in logging to determine where attack originated from
+
 ###2016-10-02
 - Initial Release
 </Changes>
