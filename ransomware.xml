@@ -7,10 +7,19 @@
 <Category>Tools:System</Category>
 <Name>Ransomware Protection</Name>
 <Description>
-A plugin designed to minimize the damage that a ransomware attack can potentially cause to your server.  Visit the support thread for complete details.
+A type of anti-virus plugin designed to minimize the damage that a ransomware attack can potentially cause to your server.  Visit the support thread for complete details.
 </Description>
-<Date>2016-10-07</Date>
+<Date>2016-10-09</Date>
 <Changes>
+###2016.10.09###
+- Added: Separate read-only SMB / AFP Settings
+- Added: Disk shares now set to be read-only
+- Added: Check and increase inotify watches if required
+- Changed: Deletion of bait files now only happens when service starts up
+- Added: Log when inotifywait is actually ready, willing, and able
+- Fixed: Remove possibility of orphaned bait files on reboots
+- Added: Ability to exclude folders
+
 ###2016.10.07###
 - Beta: Stop AFP along with SMB
 - Added: Realtime popups of status within Ransomware's Settings/ransomware
