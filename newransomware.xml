@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/Squidly271/ransomware.bait/master/plugins/newransomware.bait.plg</PluginURL>
+<PluginAuthor>Andrew Zawadzki</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:System</Category>
+<Name>Ransomware Protection</Name>
+<Description>
+DO NOT INSTALL THIS JUST YET!!!</Description>
+<Date>2016-10-09</Date>
+<Changes>
+###2016.10.09###
+- Added: Separate read-only SMB / AFP Settings
+- Added: Disk shares now set to be read-only
+- Added: Check and increase inotify watches if required
+- Changed: Deletion of bait files now only happens when service starts up
+- Added: Log when inotifywait is actually ready, willing, and able
+- Fixed: Remove possibility of orphaned bait files on reboots
+- Added: Ability to exclude folders
+
+###2016.10.07###
+- Beta: Stop AFP along with SMB
+- Added: Realtime popups of status within Ransomware's Settings/ransomware
+- Enhanced: Faster Stopping of SMB
+- Fixed: An attack followed by a reboot wouldn't let you restore proper permissions
+
+###2016.10.06###
+- Add in PDF bait file
+- Add in SMB Readonly mode option
+- Add in ability to set Readonly mode anytime
+- Add in ability to include appdata for bait
+- Add in ability to change emhttp communication port
+- Add in logging to determine where attack originated from
+
+###2016-10-02
+- Initial Release
+</Changes>
+<Support>http://lime-technology.com/forum/index.php?topic=52462.0</Support>
+<Icon>https://github.com/Squidly271/ransomware.bait/raw/master/source/ransomware.bait/usr/local/emhttp/plugins/ransomware.bait/images/biglock.png</Icon>
+<DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
+<DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=7M7CBCVU732XG</DonateLink>
+</Containers>
+
