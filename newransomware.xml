@@ -4,12 +4,18 @@
 <PluginURL>https://raw.githubusercontent.com/Squidly271/ransomware.bait/master/plugins/newransomware.bait.plg</PluginURL>
 <PluginAuthor>Andrew Zawadzki</PluginAuthor>
 <Beta>False</Beta>
+<MinVer>6.2.1</MinVer>
 <Category>Tools:System</Category>
 <Name>Ransomware Protection</Name>
 <Description>
 DO NOT INSTALL THIS JUST YET!!!</Description>
-<Date>2016-10-09</Date>
+<Date>2016-10-25</Date>
 <Changes>
+###2016.10.25###
+- Major overhaul to the UI
+- Incorporate specialized Bait Shares
+- unRaid 6.2.1+ only
+
 ###2016.10.09###
 - Added: Separate read-only SMB / AFP Settings
 - Added: Disk shares now set to be read-only
