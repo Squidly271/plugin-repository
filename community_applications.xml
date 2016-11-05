@@ -10,8 +10,58 @@
 <Description>
 CA -> AKA Apps Tab  is more than just searching for and installing docker and plugin applications.  It also offers automatic updates of plugins, scheduled backups of your flashdrive, appdata, resource monitor, cleaning up of appdata shares.
 </Description>
-<Date>2016-09-03</Date>
+<Date>2016-11-05</Date>
 <Changes>
+###2016.11.05###
+- Infrastructure changes to ultimately allow separate module installation / deinstallation
+
+###2016.10.30###
+- Fixed: Dynamix Bleeding Edge 2016.10.29c compatibility
+
+###2016.10.26###
+- Allow appdata backup source to be any folder on system
+- Updated routines to handle potential incompatibility with PHP and unRaid's generated comments
+
+###2016.10.12###
+- Handle edge case template creation by dockerMan
+
+###2016.09.28###
+- Force redirection of additional backup scripts output console
+
+###2016.09.25a###
+- Speed up appfeed download
+
+###2016.09.25###
+- Added: Selectable delay in days before autoupdating a plugin
+- Added: Backup of old .plg files prior to backup to support edge-case rollbacks if needed
+- Updated: Manual
+
+###2016.09.23###
+- NOTE: All auto update settings will be reset back to defaults with this update.  IE: Only CA and FCP will autoupdate
+- Fixed: CA under certain circumstances would show as not autoupdating in settings when in fact it would
+- Fixed: Under very specific circumstances, some plugins set to not autoupdate could in fact auto update
+- Fixed: PhAzE plugins would not show up as installed if they were
+
+###2016.09.21###
+- Extra security tests on auto updates
+- Implement autoupdate kill switch
+
+###2016.09.17###
+- Compatibility fix for dynamix.bleeding.edge.plg
+
+###2016.09.15###
+- Fixed minor compatibilty issues with 6.2 Final
+- Changed: Only log maximum 10 rsync errors in backup module
+- Fixed: disallow faster rsync option if days to keep backup sets is disabled (or set to 0)
+- Fixed: backup to flashdrive setting (entry could have been possibly corrupted under 2016.09.03)
+- Added: Script to delete old dated backups in addition to ALL backups and error backups only
+- Changed: Update Apps now called Legacy Mode.  Selecting again goes back to appFeed mode
+- Removed: Private Repositories via a GitHub repo.
+- Added: Selectable notifications on autoupdates of plugins
+- Added: XML Branch support while in Legacy Mode
+- Fixed: Display aberrations while in legacy mode if some repositories didn't download
+- Added: Legacy mode will now display any XML's which failed to parse
+
 ###2016.09.07###
 - Fixed VM XML's not backing up under certain circumstances
 - Do not delete XML backups if source is no longer available
