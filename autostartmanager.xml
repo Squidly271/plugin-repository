@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/Squidly271/community.applications/master/plugins/community.applications1.plg</PluginURL>
+<PluginAuthor>Andrew Zawadzki</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:System</Category>
+<Name>CA Docker Autostart Manager</Name>
+<CA>built-in</CA>
+<CAlink></CAlink>
+<Description>
+Coming Soon.  Community Applications' Docker Autostart Manager will allow you to specify the order in which docker applications start up (with selectable delays between starts)
+</Description>
+<Date>2016-09-03</Date>
+<Support>http://lime-technology.com/forum/index.php?topic=40262.0</Support>
+<Icon></Icon>
+<DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
+<DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=7M7CBCVU732XG</DonateLink>
+</Containers>
+
