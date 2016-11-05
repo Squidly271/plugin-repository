@@ -5,11 +5,11 @@
 <PluginAuthor>Andrew Zawadzki</PluginAuthor>
 <Beta>False</Beta>
 <Category>Tools:System</Category>
-<Name>CA Resource Monitor</Name>
+<Name>CA Appdata Backup/Restore</Name>
 <CA>built-in</CA>
-<CAlink></CAlink>
+<CAlink>/Settings/BackupMain</CAlink>
 <Description>
-Community Applications' resource monitor allows you to monitor the CPU, Network, and RAM utilization of your docker applications.
+Community Applications' appdata backup / restore module allows you to easily (and on a schedule) create backups of your docker appdata folder and restore them in the event of a cache drive failure.
 </Description>
 <Date>2016-09-03</Date>
 <Support>http://lime-technology.com/forum/index.php?topic=40262.0</Support>
