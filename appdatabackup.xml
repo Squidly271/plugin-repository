@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
 <Plugin>True</Plugin>
-<PluginURL>https://raw.githubusercontent.com/Squidly271/community.applications/master/plugins/community.applications.plg</PluginURL>
+<PluginURL>https://raw.githubusercontent.com/Squidly271/ca.backup/master/plugins/ca.backup.plg</PluginURL>
 <PluginAuthor>Andrew Zawadzki</PluginAuthor>
 <Beta>False</Beta>
 <Category>Tools:System</Category>
@@ -11,9 +11,9 @@
 <Description>
 Community Applications' appdata backup / restore module allows you to easily (and on a schedule) create backups of your docker appdata folder and restore them in the event of a cache drive failure.
 </Description>
-<Date>2016-09-03</Date>
+<Date>2016-09-09</Date>
 <Support>http://lime-technology.com/forum/index.php?topic=40262.0</Support>
-<Icon>https://github.com/Squidly271/community.applications/raw/master/source/community.applications/usr/local/emhttp/plugins/community.applications/images/backup.png</Icon>
+<Icon>https://github.com/Squidly271/ca.backup/raw/master/source/ca.backup/usr/local/emhttp/plugins/ca.backup/images/ca.backup.png</Icon>
 <DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
 <DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=7M7CBCVU732XG</DonateLink>
 </Containers>
