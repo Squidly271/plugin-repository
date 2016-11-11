@@ -10,8 +10,11 @@
 <Description>
 CA -> AKA Apps Tab  is more than just searching for and installing docker and plugin applications.  It also offers automatic updates of plugins, scheduled backups of your flashdrive, appdata, resource monitor, cleaning up of appdata shares.
 </Description>
-<Date>2016-11-05</Date>
+<Date>2016-11-11</Date>
 <Changes>
+###2016.11.11###
+- Allow separated installs / removal of CA Modules
+
 ###2016.11.05###
 - Infrastructure changes to ultimately allow separate module installation / deinstallation
 
