@@ -9,8 +9,28 @@
 <Name>Ransomware Protection</Name>
 <Description>
 Ransomware Protection is a type of anti-virus program designed to protect your server from a ransomware attack</Description>
-<Date>2016-10-25</Date>
+<Date>2016-11-11</Date>
 <Changes>
+###2016.11.11###
+- Prevent backup copies of share settings getting overwritten during a probable unintentional tripping
+
+###2016.11.05###
+- Added: Automatically exclude any .Recycle.Bin folders
+
+###2016.11.04###
+- Added: Ability to automatically exclude hidden folders
+
+###2016.10.30###
+- Added: Full Manual
+- Fixed: Compatibility with Dynamix Bleeding Edge plugin
+
+###2016.10.28###
+- Improvements in stop services
+- Fixed: Depending upon settings, an attack on user shares could trigger multiple attacks on bait shares
+- Added: Optional preserving of folder modification time when creating bait files
+- No longer log smb status if smb wasn't enabled
+- Set UD mounted shares to be read-only in case of attack
+
 ###2016.10.25###
 - Major overhaul to the UI
 - Incorporate specialized Bait Shares
