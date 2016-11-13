@@ -14,6 +14,7 @@ Community Applications' Docker Autostart Manager allows you to specify the order
 ###2016.11.13
 - Initial Release
 </Changes>
+<MinVer>6.3.0-rc2</MinVer>
 <Date>2016-11-13</Date>
 <Support>http://lime-technology.com/forum/index.php?topic=53731.0</Support>
 <Icon>https://github.com/Squidly271/ca.docker.autostart/raw/master/source/ca.docker.autostart/usr/local/emhttp/plugins/ca.docker.autostart/images/ca.docker.autostart.png</Icon>
