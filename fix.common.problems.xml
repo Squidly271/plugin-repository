@@ -5,12 +5,45 @@
 <PluginAuthor>Andrew Zawadzki</PluginAuthor>
 <Beta>False</Beta>
 <Category>Tools:System</Category>
-<Name>Fix Common Problems</Name>
+<Name>CA Fix Common Problems</Name>
+<CA>AddOn</CA>
 <Description>
-A plugin designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
+CA Fix Common Problems is designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2016-08-20</Date>
+<Date>2016-12-10</Date>
 <Changes>
+###2016-12-10###
+- Add in check for NerdPack installing inotify-tools on unRaid 6.3.0-rc6+
+
+###2016-10-27###
+- Fix possible future issue with 6.3 and unRaid including comments within .cfg files
+
+###2016-10-09###
+- Change some wording around
+- Add in test for multiple registration keys on a flash drive
+
+###2016-09-25###
+- Exclude illegal character name tests from appdata/CA backup folders
+- Itemize disks duplicate files found on
+- Delete extended logs at start of tests
+- Update plugin version checks to honour OS version
+
+###2016-09-23###
+- Adjust FCP for new CA settings organization
+- Ignore dynamix webUI update warnings on different OS versions
+
+###2016-09-15###
+- Fix docker appdata tests on 6.2
+- Powerdown not installed will not generate a warning on 6.2+
+
+###2016-09-13###
+- Old school alert for ad-blocker detection (solves a race condition)
+- Faster downloads of application feed
+- Downgrade powerdown not installed to warning
+
+###2016-09-04###
+- Remove date / time check as external source continually has intermittent problems (ie: too many false positives).  Will investigate other solutions in the future
+
 ###2016-08-20###
 - Suppress error messages if unable to download application feed
 
