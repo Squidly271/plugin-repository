@@ -5,15 +5,24 @@
 <PluginAuthor>Andrew Zawadzki</PluginAuthor>
 <Beta>False</Beta>
 <Category>Tools:System</Category>
-<Name>User Scripts</Name>
+<Name>CA User Scripts</Name>
+<CA>AddOn</CA>
 <Description>
-A plugin designed to be a front end to execute user scripts without having to drop down to the command line.
+CA User scripts is designed to be a front end to execute user scripts without having to drop down to the command line.
 </Description>
-<Date>2016-08-14</Date>
+<Date>2016-11-20</Date>
 <Changes>
+###2016.11.20
+- Added in some exceptions for certain commenting styles
+
+###2016.11.19
+- Added in variable to script to dictate operation of plugin. See support thread for details
+
+###2016.08.16
+- Added name of script
+
 ###2016.08.14
 - Added Schedule For Start And Stop of Array
-
 
 ###2016.08.01
 - Fixed: Scripts using an interpreter other than bash wouldn't run on a schedule
