@@ -11,10 +11,28 @@
 Community Applications' appdata backup / restore module allows you to easily (and on a schedule) create backups of your docker appdata folder and restore them in the event of a cache drive failure.
 </Description>
 <Changes>
+###2016.12.18
+- Force tabbed mode on settings
+
+###2016.12.07
+- Suppress error on unRaid 6.1.x
+
+###2016.12.05
+- Fixed: Under certain cicumstances unable to powerdown if a backup/restore was in progress
+
+###2016.11.27
+- Option to run CA Auto Update (if installed) after a backup is completed to install any available updates
+- Ability to specify to not shutdown certain apps when backing up - Advanced
+
+###2016.11.15
+- Backup nvram files with VM xmls
+
+###2016.11.14
+- Support CA Docker Autostart Manager settings (if installed)
 ###2016.11.11
 - Initial Separated Release
 </Changes>
-<Date>2016-11-11</Date>
+<Date>2016-12-18</Date>
 <Support>http://lime-technology.com/forum/index.php?topic=53694.0</Support>
 <Icon>https://github.com/Squidly271/ca.backup/raw/master/source/ca.backup/usr/local/emhttp/plugins/ca.backup/images/ca.backup.png</Icon>
 <DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
