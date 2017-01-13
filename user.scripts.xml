@@ -10,8 +10,11 @@
 <Description>
 CA User scripts is designed to be a front end to execute user scripts without having to drop down to the command line.
 </Description>
-<Date>2016-11-20</Date>
+<Date>2017-01-12</Date>
 <Changes>
+###2017.01.12
+- Ability to run scripts on a custom cron schedule
+
 ###2016.11.20
 - Added in some exceptions for certain commenting styles
 
