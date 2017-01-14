@@ -39,7 +39,6 @@ CA User scripts is designed to be a front end to execute user scripts without ha
 ###2016.07.02
 - Fixed: /tmp/user.scripts folder not being created on cold boot without entering UI page
 
-
 ###2016.07.01
 - Add in ability to download the script log files
 

@@ -9,8 +9,19 @@
 <Name>Ransomware Protection</Name>
 <Description>
 Ransomware Protection is a type of anti-virus program designed to protect your server from a ransomware attack</Description>
-<Date>2016-11-11</Date>
+<Date>2017-01-01</Date>
 <Changes>
+###2017.01.01###
+- Allow bait files to be hidden
+
+###2016.11.27b###
+- Fix uninstall routine
+
+###2016.11.26###
+- Fixed: Bait files being placed into appdata backup share
+- Fixed: Possible for Bait Shares to have same name, but different case
+- Changed: Reset SMB permission upon uninstall
+
 ###2016.11.11###
 - Prevent backup copies of share settings getting overwritten during a probable unintentional tripping
 
