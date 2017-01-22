@@ -10,8 +10,20 @@
 <Description>
 CA User scripts is designed to be a front end to execute user scripts without having to drop down to the command line.
 </Description>
-<Date>2017-01-12</Date>
+<Date>2017-01-22</Date>
 <Changes>
+###2017.01.22
+- Remove extraneous debugging display from GUI
+
+###2017.01.21a
+- Add in support fo direct execution of PHP scripts (for directly manipulating / adding HTML DOMs, javascript scripts, etc)
+
+###2017.01.21
+- Add in support for a name variable within scripts
+
+###2017.01.13
+- Add help text for where to look for cron syntax
+
 ###2017.01.12
 - Ability to run scripts on a custom cron schedule
 
