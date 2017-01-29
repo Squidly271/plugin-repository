@@ -10,8 +10,17 @@
 <Description>
 CA User scripts is designed to be a front end to execute user scripts without having to drop down to the command line.
 </Description>
-<Date>2017-01-22</Date>
+<Date>2017-01-28</Date>
 <Changes>
+###2017.01.28b
+- Expand built-in help system
+
+###2017.01.28a
+- Add in support for default arguments being passed to background scripts
+
+###2017.01.28
+- Add in support for upfront entry of arguments to scripts
+
 ###2017.01.22
 - Remove extraneous debugging display from GUI
 

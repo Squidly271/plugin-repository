@@ -10,8 +10,14 @@
 <Description>
 CA Fix Common Problems is designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2017-01-21</Date>
+<Date>2017-01-28</Date>
 <Changes>
+###2017-01-28###
+- Add in tests for call traces.  Should be able to handle Kernel Oops, General Protection failures and the like
+
+###2017-01-24###
+- Change New Permissions tool's name for better compatibility
+
 ###2017-01-21###
 - Added: Check for out of memory errors
 
