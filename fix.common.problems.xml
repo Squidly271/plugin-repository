@@ -10,8 +10,14 @@
 <Description>
 CA Fix Common Problems is designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2017-01-28</Date>
+<Date>2017-02-03</Date>
 <Changes>
+###2017-02-03a###
+- Fix typo detailing where to find troubleshooting logs
+
+###2017-02-03###
+- Change file name of syslog in troubleshooting mode for better clarity
+
 ###2017-01-28###
 - Add in tests for call traces.  Should be able to handle Kernel Oops, General Protection failures and the like
 
