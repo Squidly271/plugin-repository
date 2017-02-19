@@ -10,8 +10,15 @@
 <Description>
 CA Fix Common Problems is designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2017-02-03</Date>
+<Date>2017-02-18</Date>
 <Changes>
+###2017-02-18###
+- Added: MCE Errors
+- Added: Ability re-add previously ignored (but not currently found) errors
+
+###2017-02-13###
+- Fix error message resulting from a specific error in an author's application template
+
 ###2017-02-03a###
 - Fix typo detailing where to find troubleshooting logs
 

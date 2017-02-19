@@ -10,8 +10,11 @@
 <Description>
 CA User scripts is designed to be a front end to execute user scripts without having to drop down to the command line.
 </Description>
-<Date>2017-02-04</Date>
+<Date>2017-02-18</Date>
 <Changes>
+###2017.02.18
+- Somehow the sample scripts have been left off of the installation
+
 ###2017.02.04
 - Improve killing of background scripts
 
