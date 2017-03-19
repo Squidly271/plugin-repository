@@ -12,6 +12,15 @@
 Community Applications' auto update allows you to select which plugins to automatically keep up to date as updates become available.  Includes options to wait until an update is x number of days old before updating
 </Description>
 <Changes>
+###2017.03.18
+- Added in ability to run custom stop / start scripts for docker updates.  See CA manual for details
+
+###2017.02.19
+- Fixed uninstall routine
+
+###2016.12.18
+- Force tabbed mode display
+
 ###2016.12.18
 - Force tabbed mode display
 
@@ -26,7 +35,7 @@ Community Applications' auto update allows you to select which plugins to automa
 ###2016.11.11
 - Initial Separated Release
 </Changes>
-<Date>2016-12-18</Date>
+<Date>2017-03-18</Date>
 <Support>http://lime-technology.com/forum/index.php?topic=53693.0</Support>
 <Icon>https://github.com/Squidly271/ca.update.applications/raw/master/source/ca.update.applications/usr/local/emhttp/plugins/ca.update.applications/images/ca.update.applications.png</Icon>
 <DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
