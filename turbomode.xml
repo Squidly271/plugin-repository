@@ -11,6 +11,12 @@
 CA Auto Turbo Write Mode will automatically enable or disable turbo write (reconstruct) mode depending upon the number of hard drives currently spinning.  This could result is significantly faster write speeds to the array without needlessly spinning up disks.
 </Description>
 <Changes>
+###2017.03.25
+- Added in scheduling to force turbo mode off / on
+
+###2017.03.24
+- Fix Debug Mode logging not working when started from GUI
+
 ###2017.03.14
 - Support a user script to force modes on a schedule (see support thread)
 
@@ -22,7 +28,7 @@ CA Auto Turbo Write Mode will automatically enable or disable turbo write (recon
 
 </Changes>
 <MinVer>6.3.0</MinVer>
-<Date>2017-03-14</Date>
+<Date>2017-03-25</Date>
 <Support>https://forums.lime-technology.com/topic/55671-plugin-ca-auto-turbo-write-mode/#comment-544485</Support>
 <Icon>https://github.com/Squidly271/ca.turbo/raw/master/source/ca.turbo/usr/local/emhttp/plugins/ca.turbo/images/ca.turbo.png</Icon>
 <DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>

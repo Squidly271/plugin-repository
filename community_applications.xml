@@ -10,8 +10,20 @@
 <Description>
 CA -> AKA Apps Tab  is more than just searching for and installing docker and plugin applications.  It also offers automatic updates of plugins, scheduled backups of your flashdrive, appdata, resource monitor, cleaning up of appdata shares.
 </Description>
-<Date>2017.03.19</Date>
+<Date>2017.04.02</Date>
 <Changes>
+###2017.04.02###
+- Implement new features made available by 6.3.3+  (Still fully compatible with older versions of unRaid)
+  - Hovering over app's icon opens up the full description
+  - Hovering over changes icon opens up the change log
+  - Use tooltipster exclusively (tooltips will open after 1.5 seconds, and automaticaly close after 15 seconds)
+
+###2017.03.22###
+- Misc Display Fixes
+
+###2017.03.21###
+- Maintenance update:  Prevent Deprecated apps from appearing on available apps lists
+
 ###2017.03.19a###
 - Ability to switch max per page on the fly
 - Unify docker search navigation with appstore navigation
