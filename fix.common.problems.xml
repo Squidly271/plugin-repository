@@ -10,8 +10,36 @@
 <Description>
 CA Fix Common Problems is designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2017-02-18</Date>
+<Date>2017-03-22</Date>
 <Changes>
+###2017-03-22##
+- Fix typos
+- Support CA's new method of blacklisting / deprecating apps
+
+###2017-03-19###
+- Deprecate inotify install checks on 6.3
+- Don't flag multiple key errors if one of keys is Trial
+
+###2017-03-17###
+- Fix false positive within extended tests
+
+###2017-03-01###
+- Fixed: Prevent messages from appearing on local console
+
+###2017-02-28###
+- Added check for inotifywatches exhausted
+- Added output of mcelog if mce error is detected
+- Added check for irq xx: nobody cared (and log output of cat /proc/interrupts for diagnosis)
+
+###2017-02-26###
+- Ignore RecycleBin folder within /mnt
+
+###2017-02-25a###
+- Added: Check for non-system folders / files within /mnt
+
+###2017-02-25###
+- Fixed: Don't follow symlinked directories on extended tests
+
 ###2017-02-18###
 - Added: MCE Errors
 - Added: Ability re-add previously ignored (but not currently found) errors
