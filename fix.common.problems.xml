@@ -10,8 +10,14 @@
 <Description>
 CA Fix Common Problems is designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2017-03-22</Date>
+<Date>2017-04-09</Date>
 <Changes>
+###2017-04-09###
+- Added check for SSD cache formatted as reiserFS (does not support trim)
+
+###2017-04-06###
+- Fixed Plugins not up to date, but set to autoupdate generating errors
+
 ###2017-03-22##
 - Fix typos
 - Support CA's new method of blacklisting / deprecating apps
