@@ -10,8 +10,11 @@
 <Description>
 CA Fix Common Problems is designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2017-04-09</Date>
+<Date>2017-04-10</Date>
 <Changes>
+###2017-04-10
+- Added check for SSD cache drive, but Dynamix SSD Trim plugin not installed
+
 ###2017-04-09###
 - Added check for SSD cache formatted as reiserFS (does not support trim)
 
