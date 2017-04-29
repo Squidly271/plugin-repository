@@ -10,8 +10,14 @@
 <Description>
 CA Fix Common Problems is designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2017-04-10</Date>
+<Date>2017-04-17</Date>
 <Changes>
+###2017-04-17
+- Fixed: Ignore Dynamix check for plugin / docker updates if CA Auto Update is set to check for updates
+
+###2017-04-12
+- Fixed: Spurious Dynamix SSD Trim plugin not installed
+
 ###2017-04-10
 - Added check for SSD cache drive, but Dynamix SSD Trim plugin not installed
 
