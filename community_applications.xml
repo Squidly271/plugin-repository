@@ -10,8 +10,13 @@
 <Description>
 CA -> AKA Apps Tab  is more than just searching for and installing docker and plugin applications.  It also offers automatic updates of plugins, scheduled backups of your flashdrive, appdata, resource monitor, cleaning up of appdata shares.
 </Description>
-<Date>2017-04-24</Date>
+<Date>2017-04-29</Date>
 <Changes>
+###2017.04.29
+- Fix Compatibility with Internet Explorer and Opera
+- Fix Button incorrectly displaying on an installed application utilizing Branches
+- Fix Changelog not displaying for CA when update is available
+
 ###2017.04.24a
 - Don't display webUI link if docker app is not running
 
