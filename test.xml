@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Container version="2">
+  <Name>test</Name>
+  <Repository>test/test</Repository>
+  <Registry>test/test</Registry>
+  <Network>bridge</Network>
+  <Privileged>false</Privileged>
+  <Support/>
+  <Overview> [br]&#xD;
+  [br][br][b][u][span style='color: #E80000;']Configuration[/span][/u][/b][br]&#xD;
+  [b]/config[/b] : Mapping for config files [br]&#xD;
+  </Overview>
+  <Category/>
+  <WebUI>http://[IP]:[PORT:80]/</WebUI>
+  <TemplateURL/>
+  <Icon/>
+  <ExtraParams/>
+  <DateInstalled>1493556486</DateInstalled>
+  <Description> [br]&#xD;
+  [br][br][b][u][span style='color: #E80000;']Configuration[/span][/u][/b][br]&#xD;
+  [b]/config[/b] : Mapping for config files [br]&#xD;
+  </Description>
+  <Networking>
+    <Mode>bridge</Mode>
+    <Publish/>
+  </Networking>
+  <Data>
+    <Volume>
+      <HostDir>/test</HostDir>
+      <ContainerDir>/TEST</ContainerDir>
+      <Mode>rw</Mode>
+    </Volume>
+  </Data>
+  <Environment>
+    <Variable>
+      <Value>99</Value>
+      <Name>PUID</Name>
+      <Mode/>
+    </Variable>
+    <Variable>
+      <Value>100</Value>
+      <Name>PGID</Name>
+      <Mode/>
+    </Variable>
+  </Environment>
+  <Config Name="User ID" Target="PUID" Default="99" Mode="" Description="Set to Desired User ID" Type="Variable" Display="always" Required="true" Mask="false">99</Config>
+  <Config Name="Group ID" Target="PGID" Default="100" Mode="" Description="Set to Desired Group ID" Type="Variable" Display="always" Required="true" Mask="false">100</Config>
+  <Config Name="Host Path 1" Target="/TEST" Default="" Mode="rw" Description="this is a test &amp;lt;test&amp;gt; &amp;lt;test2&amp;gt;" Type="Path" Display="always" Required="false" Mask="false">/test</Config>
+</Container>
