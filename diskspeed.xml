@@ -10,10 +10,14 @@
 This utility will perform read tests at different points on each drive attached to the system (even those not assigned to the UNRAID array) to compute the average speed &amp; generate a graph. Useful if you want to see if you have a drive that's slower than the others and negatively affecting your parity drive speeds. Even drives of the same make &amp; model can perform marginally different.
 </Description>
 <Changes>
+###2017.05.04
+- Changed: History now stored in 24Hour format (for proper sorting)
+- Fixed: Extra info not displaying when using Dynamix with Black theme (fix going forward - previously generated charts won't display extra info)
+
 ###2017.05.02
 - Initial Release
 </Changes>
-<Date>2017-05-02</Date>
+<Date>2017-05-04</Date>
 <Support>https://forums.lime-technology.com/topic/57023-plugin-disk-speed-test/</Support>
 <Icon>https://github.com/Squidly271/diskspeedtest/raw/master/source/diskspeedtest/usr/local/emhttp/plugins/diskspeedtest/images/speedtest.png</Icon>
 </Containers>
