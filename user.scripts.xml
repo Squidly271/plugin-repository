@@ -10,8 +10,15 @@
 <Description>
 CA User scripts is designed to be a front end to execute user scripts without having to drop down to the command line.
 </Description>
-<Date>2017-04-06</Date>
+<Date>2017-05-18</Date>
 <Changes>
+###2017.05.18###
+- Fixed: Popup not closing when editing name
+
+###2017.04.15###
+- Fixed: After cancelled edit, a new edit would bring up original contents
+- Fixed: + signs being converted to spaces when saving a script
+
 ###2017.04.06a###
 -Better handling of duplicate folder names when adding scripts
 

@@ -11,6 +11,9 @@
 Ransomware Protection is a type of anti-virus program designed to protect your server from a ransomware attack</Description>
 <Date>2017-02-13</Date>
 <Changes>
+###2017.05.21
+- Fixed: Disk share settings not properly restoring
+
 ###2017.02.13###
 - Fixed: Suppress error message on uninstall
 - Fixed: Restore permissions on uninstall (if in tripped state)

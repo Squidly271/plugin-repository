@@ -9,6 +9,9 @@
 <Description>
 A very simple plugin to allow you to place any webpage (or web app's GUI) onto the tabs of unRaid's GUI</Description>
 <Changes>
+###2017.05.14
+- Support Multiple Custom Tabs
+
 ###2017.05.06
 - Initial Release
 </Changes>
