@@ -10,8 +10,15 @@
 <Description>
 CA -> AKA Apps Tab  is more than just searching for and installing docker and plugin applications.  It also offers automatic updates of plugins, scheduled backups of your flashdrive, appdata, resource monitor, cleaning up of appdata shares.
 </Description>
-<Date>2017-05-21</Date>
+<Date>2017-05-30</Date>
 <Changes>
+###2017.05.30
+- Fixed: Display Aberration in Table Mode under certain conditions
+- Enhanced: View Mode and Results per Page saved between instances
+- Enhanced: Increased compatibility with older browsers
+- Added: Statistics Display for appfeed
+- Code cleanup
+
 ###2017.05.21
 - Enhanced: Update plugins now refreshes page instead of reloading
 - Enhanced: Install plugins now refreshes page instead of reloading
