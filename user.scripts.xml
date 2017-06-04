@@ -10,8 +10,11 @@
 <Description>
 CA User scripts is designed to be a front end to execute user scripts without having to drop down to the command line.
 </Description>
-<Date>2017-05-18</Date>
+<Date>2017-06-02</Date>
 <Changes>
+###2017.06.02
+- Suppress script not found error on custom cron schedules if user manually deletes the script
+
 ###2017.05.18###
 - Fixed: Popup not closing when editing name
 
