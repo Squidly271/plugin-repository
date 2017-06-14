@@ -3,7 +3,7 @@
 <Plugin>True</Plugin>
 <PluginURL>https://raw.githubusercontent.com/Squidly271/ransomware.bait/master/plugins/newransomware.bait.plg</PluginURL>
 <PluginAuthor>Andrew Zawadzki</PluginAuthor>
-<Beta>False</Beta>
+<Beta>True</Beta>
 <MinVer>6.2.1</MinVer>
 <Category>Tools:System</Category>
 <Name>Ransomware Protection</Name>

@@ -11,6 +11,11 @@
 Community Applications appdata backup / restore module allows you to easily (and on a schedule) create backups of your docker appdata folder and restore them in the event of a cache drive failure.
 </Description>
 <Changes>
+###2017.06.12
+- Instead of VM XML backup, switch to backing up libvirt.img
+- 6.4 Compatibility Update
+- *** 6.4 users should REBOOT after installing this update ***
+
 ###2017.06.04
 - Preserve file modification times on XML and Flash backup
 - Add in support for time before forcibly killing a docker process during stop process (default: 10 seconds)
@@ -49,7 +54,7 @@ Community Applications appdata backup / restore module allows you to easily (and
 ###2016.11.11
 - Initial Separated Release
 </Changes>
-<Date>2017-06-04</Date>
+<Date>2017-06-12</Date>
 <Support>http://lime-technology.com/forum/index.php?topic=53694.0</Support>
 <Icon>https://github.com/Squidly271/ca.backup/raw/master/source/ca.backup/usr/local/emhttp/plugins/ca.backup/images/ca.backup.png</Icon>
 <DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
