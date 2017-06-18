@@ -10,8 +10,12 @@
 <Description>
 CA -> AKA Apps Tab  is more than just searching for and installing docker and plugin applications.  It also offers automatic updates of plugins, scheduled backups of your flashdrive, appdata, resource monitor, cleaning up of appdata shares.
 </Description>
-<Date>2017-06-10</Date>
+<Date>2017-06-18</Date>
 <Changes>
+###2017.06.18
+- Expanded details on statistics
+- Removed resource monitor (see thread for details)
+
 ###2017.06.10
 - Adjustable Disappear time on app popups
 
