@@ -10,8 +10,19 @@
 <Description>
 CA -> AKA Apps Tab  is more than just searching for and installing docker and plugin applications.  It also offers automatic updates of plugins, scheduled backups of your flashdrive, appdata, resource monitor, cleaning up of appdata shares.
 </Description>
-<Date>2017-06-25</Date>
+<Date>2017-07-02</Date>
 <Changes>
+###2017.07.02
+- Don't revert to legacy mode automatically if appfeed fails (probably due to DNS failure. Previously could take an hour to time out in this circumstance. New method will time out in 2-3 minutes)
+- Fixed: Under certain circumstances with docker service disabled, app pop ups could display errors
+
+###2017.07.01a
+- Fix regression error when updating CA from within CA would not reload the page after installation finished
+
+###2017.07.01
+- Added in sort by date when in New Apps section
+- Fixed Categories not resetting after a search performed
+
 ###2017-06-25
 - Remove sort by date and do not display except on plugins (rarely do docker maintainers update it which makes for a lot of confusion)
 - Fixed: Under certain circumstances, app info popups in previous apps would display the incorrect information

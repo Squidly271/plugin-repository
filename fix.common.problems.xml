@@ -10,8 +10,14 @@
 <Description>
 CA Fix Common Problems is designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2017-04-17</Date>
+<Date>2017-07-03</Date>
 <Changes>
+###2017.07-03
+- Fix Permissions on executables
+
+###2017-06-30
+- Added check for missing/different TemplateURL field in docker application's template
+
 ###2017-04-17
 - Fixed: Ignore Dynamix check for plugin / docker updates if CA Auto Update is set to check for updates
 
