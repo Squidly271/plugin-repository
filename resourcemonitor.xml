@@ -4,6 +4,7 @@
 <PluginURL>https://raw.githubusercontent.com/Squidly271/ca.resource.monitor/master/plugins/ca.resource.monitor.plg</PluginURL>
 <PluginAuthor>Andrew Zawadzki</PluginAuthor>
 <Beta>False</Beta>
+<CA>Addon</CA>
 <Category>Tools:System</Category>
 <Name>CA Resource Monitor</Name>
 <Description>
