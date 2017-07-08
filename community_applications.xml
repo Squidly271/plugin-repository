@@ -10,8 +10,11 @@
 <Description>
 CA -> AKA Apps Tab  is more than just searching for and installing docker and plugin applications.  It also offers automatic updates of plugins, scheduled backups of your flashdrive, appdata, resource monitor, cleaning up of appdata shares.
 </Description>
-<Date>2017-07-02</Date>
+<Date>2017-07-08</Date>
 <Changes>
+###2017.07.08
+- Minor changes to appfeed statistics displays
+
 ###2017.07.02
 - Don't revert to legacy mode automatically if appfeed fails (probably due to DNS failure. Previously could take an hour to time out in this circumstance. New method will time out in 2-3 minutes)
 - Fixed: Under certain circumstances with docker service disabled, app pop ups could display errors
