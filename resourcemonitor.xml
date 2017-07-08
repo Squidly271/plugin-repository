@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/Squidly271/ca.resource.monitor/master/plugins/ca.resource.monitor.plg</PluginURL>
+<PluginAuthor>Andrew Zawadzki</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:System</Category>
+<Name>CA Resource Monitor</Name>
+<Description>
+A very simple plugin that places the UI for cAdvisor onto the Docker Tab to allow you to easily and quickly see the resources consumed by your various docker applications.  Will prompt you to install cAdvisor if its not already installed
+</Description>
+<Changes>
+###2017.07.08
+- Initial Release
+</Changes>
+<Date>2017-07-08</Date>
+<MinVer>6.3.0</MinVer>
+<Support>https://forums.lime-technology.com/topic/58615-plugin-ca-resource-monitor/</Support>
+<Icon>https://github.com/Squidly271/ca.resource.monitor/raw/master/source/ca.resource.monitor/usr/local/emhttp/plugins/ca.resource.monitor/images/ca.resource.monitor.png</Icon>
+<DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
+<DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=7M7CBCVU732XG</DonateLink>
+</Containers>
+
