@@ -10,8 +10,15 @@
 <Description>
 CA -> AKA Apps Tab  is more than just searching for and installing docker and plugin applications.  It also offers automatic updates of plugins, scheduled backups of your flashdrive, appdata, resource monitor, cleaning up of appdata shares.
 </Description>
-<Date>2017-07-08</Date>
+<Date>2017-07-16</Date>
 <Changes>
+###2017.07.16
+- Enhanced: Search box has focus when page loaded (Just start typing instead of clicking within)
+- Enhanced: After installing / editing a docker application, pressing DONE will return to the Apps page (previously blank template would appear)
+- Added: Ability to install multiple applications (docker / plugin) simultaneously from the Previous Apps section without confirming the already filled out template.
+- Changed: Default for Displayed results per page from 10 to 25
+- Removed: Option to open install / edit pages in a new tab
+
 ###2017.07.08
 - Minor changes to appfeed statistics displays
 
