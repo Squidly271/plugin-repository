@@ -10,8 +10,20 @@
 <Description>
 CA -> AKA Apps Tab  is more than just searching for and installing docker and plugin applications.  It also offers automatic updates of plugins, scheduled backups of your flashdrive, appdata, resource monitor, cleaning up of appdata shares.
 </Description>
-<Date>2017-07-16</Date>
+<Date>2017-07-24</Date>
 <Changes>
+###2017.07.24
+- Better enforcement of fatal errors in application templates
+- Code cleanup
+- Fixed: Edge case of being able to search dockerhub if docker is not enabled
+- Fixed: Edge case of app of the day no longer valid app after an update
+
+###2017.07.20
+- Multiple Installation of Previous Apps
+  - Fixed: Clicking outside of the install button would attempt to install
+  - Fixed: Selected Apps would not stay selected following a view or page change
+  - Added: Ability to select apps from different pages and have them all install
+
 ###2017.07.16
 - Enhanced: Search box has focus when page loaded (Just start typing instead of clicking within)
 - Enhanced: After installing / editing a docker application, pressing DONE will return to the Apps page (previously blank template would appear)
@@ -33,7 +45,7 @@ CA -> AKA Apps Tab  is more than just searching for and installing docker and pl
 - Added in sort by date when in New Apps section
 - Fixed Categories not resetting after a search performed
 
-###2017-06-25
+###2017.06.25
 - Remove sort by date and do not display except on plugins (rarely do docker maintainers update it which makes for a lot of confusion)
 - Fixed: Under certain circumstances, app info popups in previous apps would display the incorrect information
 - Add a comment if an app is deprecated
