@@ -10,8 +10,14 @@
 <Description>
 CA Fix Common Problems is designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2017-07-28</Date>
+<Date>2017-09-02</Date>
 <Changes>
+###2017-09-02
+- Maintenance release
+
+###2017-08-14
+- Display multiple IRQ disabled messages if found
+
 ###2017-07-28
 - Add in warnings if Marvel Hard Drive controller found
 
