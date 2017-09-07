@@ -9,6 +9,7 @@
 <Description>
 This utility will perform read tests at different points on each drive attached to the system (even those not assigned to the UNRAID array) to compute the average speed &amp; generate a graph. Useful if you want to see if you have a drive that's slower than the others and negatively affecting your parity drive speeds. Even drives of the same make &amp; model can perform marginally different.
 </Description>
+<MaxVer>6.4.0-rc7a</MaxVer>
 <Changes>
 ###2017.05.04
 - Changed: History now stored in 24Hour format (for proper sorting)
