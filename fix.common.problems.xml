@@ -10,8 +10,14 @@
 <Description>
 CA Fix Common Problems is designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2017-09-02</Date>
+<Date>2017-09-09</Date>
 <Changes>
+###2017-09-09
+- Scan all syslogs (including rotated) for call traces
+
+###2017-09-04
+- Support Encrypted drives being found in array
+
 ###2017-09-02
 - Maintenance release
 
