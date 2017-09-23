@@ -9,6 +9,9 @@
 <Description>
 A very simple plugin to allow you to place any webpage (or web app's GUI) onto the tabs of unRaid's GUI</Description>
 <Changes>
+###2017.09.23
+- Fixed: Change focus to iframe when loaded (IE: Keyboard now works on URL tabs)
+
 ###2017.06.24
 - Support Adding any unRaid page file as a custom tab
 

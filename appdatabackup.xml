@@ -11,6 +11,9 @@
 Community Applications appdata backup / restore module allows you to easily (and on a schedule) create backups of your docker appdata folder and restore them in the event of a cache drive failure.
 </Description>
 <Changes>
+###2017.09.23
+- Fixed: Long foldernames being truncated on excluded folder browser
+
 ###2017.06.12
 - Instead of VM XML backup, switch to backing up libvirt.img
 - 6.4 Compatibility Update
