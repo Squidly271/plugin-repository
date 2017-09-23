@@ -10,8 +10,22 @@
 <Description>
 CA -> AKA Apps Tab  is more than just searching for and installing docker and plugin applications.  It also offers automatic updates of plugins, scheduled backups of your flashdrive, appdata, resource monitor, cleaning up of appdata shares.
 </Description>
-<Date>2017-09-04</Date>
+<Date>2017-09-22</Date>
 <Changes>
+###2017.09.22
+- Fixed: Correctly handle duplicate named plugins within Installed / Previously Installed sections
+- Changed: Relocate data files from docker.img to RAM to handle some edge-cases
+- Changed: Don't show applications within New / Updated section if date modified is in the future
+- Code cleanup, and minor changes to Stats section
+
+###2017.09.13
+- Changed: Clicking Repository from popup will now search for applications contained within the repository
+- Added: App info popup now has link to go directly to docker hub page for application
+- Fixed: Prevent possibility of duplicate app appearing in app of the day.
+- Enhanced: Previously, app of the day would return errors if unRaid CSS and window width support horizontal resolution greater than 5700 pixels.
+- Fixed: If multiple browser tabs opened to apps tab, detect if app database is out of sync between windows and update tab accordingly.
+- Changed: Allow moderation to whitelist an application without appfeed update
+
 ###2017.09.04
 - Remove arbitrary limitation of 1920 pixels across for CA (introduced via 6.4-rc8q)  Instead utilize whatever limits unRaid's CSS dictates
 
