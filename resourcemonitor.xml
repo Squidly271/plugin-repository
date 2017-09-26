@@ -11,10 +11,13 @@
 A very simple plugin that places the UI for cAdvisor onto the Docker Tab to allow you to easily and quickly see the resources consumed by your various docker applications.  Will prompt you to install cAdvisor if its not already installed
 </Description>
 <Changes>
+###2017.09.25
+- Support IPs other than unRaid's
+
 ###2017.07.08
 - Initial Release
 </Changes>
-<Date>2017-07-08</Date>
+<Date>2017-09-25</Date>
 <MinVer>6.3.0</MinVer>
 <Support>https://forums.lime-technology.com/topic/58615-plugin-ca-resource-monitor/</Support>
 <Icon>https://github.com/Squidly271/ca.resource.monitor/raw/master/source/ca.resource.monitor/usr/local/emhttp/plugins/ca.resource.monitor/images/ca.resource.monitor.png</Icon>
