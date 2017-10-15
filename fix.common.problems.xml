@@ -10,8 +10,11 @@
 <Description>
 CA Fix Common Problems is designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2017-09-09</Date>
+<Date>2017-10-15</Date>
 <Changes>
+###2017-10-15
+- Check for directory bread errors (flash drive disconnected)
+
 ###2017-09-09
 - Scan all syslogs (including rotated) for call traces
 
