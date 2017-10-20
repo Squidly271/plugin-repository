@@ -10,8 +10,15 @@
 <Description>
 CA -> AKA Apps Tab  is more than just searching for and installing docker and plugin applications.  It also offers automatic updates of plugins, scheduled backups of your flashdrive, appdata, resource monitor, cleaning up of appdata shares.
 </Description>
-<Date>2017-10-07</Date>
+<Date>2017-10-19</Date>
 <Changes>
+###2017.10.19
+- Enhanced: Don't display back to top if dynamix already does
+- Fixed: Remove some excess files when no longer needed
+- Fixed: Don't display get more results from dockerHub when searching if docker is not enabled
+- Under the hood enhancements to the moderation system
+- Coding improvements
+
 ###2017.10.07
 - Prevent user changing sections before display is rendered
 
