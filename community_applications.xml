@@ -17,7 +17,7 @@ CA -> AKA Apps Tab  is more than just searching for and installing docker and pl
 - Fixed: Remove some excess files when no longer needed
 - Fixed: Don't display get more results from dockerHub when searching if docker is not enabled
 - Under the hood enhancements to the moderation system
-- Coding improvements
+- Coding improvement
 
 ###2017.10.07
 - Prevent user changing sections before display is rendered
