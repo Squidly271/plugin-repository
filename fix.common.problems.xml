@@ -10,8 +10,11 @@
 <Description>
 CA Fix Common Problems is designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2017-10-15</Date>
+<Date>2017-10-28</Date>
 <Changes>
+###2017-10-28
+- Remove Sensors display, running processes, etc from troubleshooting mode
+
 ###2017-10-15
 - Check for directory bread errors (flash drive disconnected)
 
