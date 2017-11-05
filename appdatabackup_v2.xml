@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/Squidly271/ca.backup2/master/plugins/ca.backup2.plg</PluginURL>
+<PluginAuthor>Andrew Zawadzki</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:System</Category>
+<Name>CA Appdata Backup/Restore v2</Name>
+<CA>built-in</CA>
+<Description>
+*** TESTING - DO NOT INSTALL ***
+Community Applications appdata backup / restore module allows you to easily (and on a schedule) create backups of your docker appdata folder and restore them in the event of a cache drive failure.
+</Description>
+<Changes>
+###2017.11.05
+- Initial Release
+</Changes>
+<Date>2017-11-05</Date>
+<Support>http://lime-technology.com/forum/index.php?topic=53694.0</Support>
+<Icon>https://github.com/Squidly271/ca.backup/raw/master/source/ca.backup/usr/local/emhttp/plugins/ca.backup/images/ca.backup.png</Icon>
+<DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
+<DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=7M7CBCVU732XG</DonateLink>
+</Containers>
+
