@@ -10,8 +10,11 @@
 <Description>
 CA Fix Common Problems is designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2017-11-02</Date>
+<Date>2017-11-12</Date>
 <Changes>
+###2017-11-12
+- Check to see if enough installed memory to be able to operate at "functional" minimum
+
 ###2017-11-02a
 - Tighten code for call trace searches to only display serious traces and ignore informational ones
 
