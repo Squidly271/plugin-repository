@@ -10,8 +10,11 @@
 <Description>
 CA Fix Common Problems is designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2017-11-12</Date>
+<Date>2017-11-18</Date>
 <Changes>
+###2017-11-18
+- Ignore Network mode tests if network not set to Bridge or Host
+
 ###2017-11-12
 - Check to see if enough installed memory to be able to operate at "functional" minimum
 
