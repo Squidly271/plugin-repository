@@ -14,6 +14,7 @@ CA -> AKA Apps Tab  is more than just searching for and installing docker and pl
 <Changes>
 ###2017.11.18
 - Fix CSS on search box when running unRaid 6.4 with White / Black themes
+- If plugin already installed and no changelog in appfeed, display changelog from installed plg
 
 ###2017.11.12
 - Fix missing icons in help text
