@@ -10,8 +10,11 @@
 <Description>
 CA -> AKA Apps Tab  is more than just searching for and installing docker and plugin applications.  It also offers automatic updates of plugins, scheduled backups of your flashdrive, appdata, resource monitor, cleaning up of appdata shares.
 </Description>
-<Date>2017-11-12</Date>
+<Date>2017-11-18</Date>
 <Changes>
+###2017.11.18
+- Fix CSS on search box when running unRaid 6.4 with White / Black themes
+
 ###2017.11.12
 - Fix missing icons in help text
 
