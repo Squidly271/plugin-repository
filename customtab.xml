@@ -9,6 +9,9 @@
 <Description>
 A very simple plugin to allow you to place any webpage (or web app's GUI) onto the tabs of unRaid's GUI</Description>
 <Changes>
+###2017.11.23
+- Fixed: Settings icon on unRaid 6.4
+
 ###2017.09.23
 - Fixed: Change focus to iframe when loaded (IE: Keyboard now works on URL tabs)
 
@@ -24,7 +27,7 @@ A very simple plugin to allow you to place any webpage (or web app's GUI) onto t
 ###2017.05.06
 - Initial Release
 </Changes>
-<Date>2017-09-23</Date>
+<Date>2017-11-23</Date>
 <Support>https://forums.lime-technology.com/topic/57109-plugin-custom-tab/</Support>
 <Icon>https://github.com/Squidly271/customtab/raw/master/source/customtab/usr/local/emhttp/plugins/customtab/images/customlarge.png</Icon>
 <DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>

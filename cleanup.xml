@@ -11,13 +11,17 @@
 Community Applications' Cleanup Appdata will scan your appdata share to determine which folders are no longer in use (from uninstalled docker applications) and allow you to delete them easily to free up hard disk space
 </Description>
 <Changes>
+###2017.11.23
+- Relocate Icon to Settings / User Utilities
+- Reorganization as part of updates to CA proper
+
 ###2017.01.28
 - Fixed: Errors when no templates have any possibilities for cleanup
 
 ###2016.11.11
 - Initial Separated Release
 </Changes>
-<Date>2017-01-28</Date>
+<Date>2017-11-23</Date>
 <Support>http://lime-technology.com/forum/index.php?topic=53695.0</Support>
 <Icon>https://github.com/Squidly271/ca.cleanup.appdata/raw/master/source/ca.cleanup.appdata/usr/local/emhttp/plugins/ca.cleanup.appdata/images/ca.cleanup.appdata.png</Icon>
 <DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>

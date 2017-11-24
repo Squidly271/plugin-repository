@@ -11,6 +11,9 @@
 Community Applications' Docker Autostart Manager allows you to specify the order in which docker applications start up, along with selectable delays between starts of applications
 </Description>
 <Changes>
+###2017.11.23
+- Reorganization as part of updates to CA proper
+
 ###2017.08.05
 - Fixed: Errors if all apps set to be managed start
 
@@ -33,7 +36,7 @@ Community Applications' Docker Autostart Manager allows you to specify the order
 - Initial Release
 </Changes>
 <MinVer>6.3.0-rc2</MinVer>
-<Date>2017-08-05</Date>
+<Date>2017-11-23</Date>
 <Support>http://lime-technology.com/forum/index.php?topic=53731.0</Support>
 <Icon>https://github.com/Squidly271/ca.docker.autostart/raw/master/source/ca.docker.autostart/usr/local/emhttp/plugins/ca.docker.autostart/images/ca.docker.autostart.png</Icon>
 <DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
