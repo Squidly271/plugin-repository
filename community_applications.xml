@@ -10,8 +10,20 @@
 <Description>
 CA -> AKA Apps Tab  is more than just searching for and installing docker and plugin applications.  It also offers automatic updates of plugins, scheduled backups of your flashdrive, appdata, resource monitor, cleaning up of appdata shares.
 </Description>
-<Date>2017-11-18</Date>
+<Date>2017-11-24</Date>
 <Changes>
+###2017.11.24
+- Coding improvements
+- Minor CSS changes
+- Fixed: dockerHub conversions will not trigger a template error within statistics
+- Reorganization of files to completely separate other CA plugins from CA proper
+- Changed: Request non-cached version of application feed from appfeed server (Solves edge case of entering Apps tab right after an update has been performed to the appfeed and server delivers a cached version of the feed)
+- Changed: From stats popup, clicking private apps will display all private apps within CA to facilitate easy removal / installation / etc
+- Changed: Prevent edge case of having multiple tabs open to CA while deleting / removing apps from Previously Installed / Private sections and under certain circumstances random apps of the day appear
+- Removed: Debugging lines / extra files long since not needed
+- Changed: Private apps no longer require a description to be managed
+- Fixed: Prevent CA itself from ever being one of the random apps of the day
+
 ###2017.11.18
 - Fix CSS on search box when running unRaid 6.4 with White / Black themes
 - If plugin already installed and no changelog in appfeed, display changelog from installed plg
