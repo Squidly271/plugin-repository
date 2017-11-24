@@ -12,6 +12,10 @@ CA -> AKA Apps Tab  is more than just searching for and installing docker and pl
 </Description>
 <Date>2017-11-24</Date>
 <Changes>
+###2017.11.24a
+- Display aberrations when going from Previous Apps To Private Apps
+- Utilize display engine to display blacklisted, deprecated, etc from the stats popup
+
 ###2017.11.24
 - Coding improvements
 - Minor CSS changes
