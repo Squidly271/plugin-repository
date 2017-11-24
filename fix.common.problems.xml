@@ -10,8 +10,11 @@
 <Description>
 CA Fix Common Problems is designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2017-11-18</Date>
+<Date>2017-11-24</Date>
 <Changes>
+###2017-11-24
+- Fix appfeed URL subject to redirection
+
 ###2017-11-18
 - Ignore Network mode tests if network not set to Bridge or Host
 
