@@ -6,7 +6,6 @@
 <Beta>False</Beta>
 <Category>Tools:System</Category>
 <Name>CA User Scripts</Name>
-<CA>AddOn</CA>
 <Description>
 CA User scripts is designed to be a front end to execute user scripts without having to drop down to the command line.
 </Description>
