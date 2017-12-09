@@ -10,8 +10,11 @@
 <Description>
 CA Fix Common Problems is designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2017-11-25</Date>
+<Date>2017-12-09</Date>
 <Changes>
+###2017-12-09
+- Fixed: Out of memory errors if syslog files exceed PHP's default memory limits
+
 ###2017-11-25
 - Fixed: PHP error displayed if cache floor not set in unRaid settings
 
