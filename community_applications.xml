@@ -12,6 +12,9 @@ CA -> AKA Apps Tab  is more than just searching for and installing docker and pl
 </Description>
 <Date>2017-12-09</Date>
 <Changes>
+###2017.12.09a
+- Changed: Moderation entries regarding compatibility of applications take effect immediately without waiting for an appfeed update
+
 ###2017.12.09
 - Numerous optimizations, remove unused code, etc
 - Change how Beta applications are identified / displayed
