@@ -10,8 +10,12 @@
 <Description>
 CA Fix Common Problems is designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2017-12-09</Date>
+<Date>2017-12-11</Date>
 <Changes>
+###2017-12-11
+- Fixed: Minimum/Maximum versions of unRaid for plugin compatibility set by CA moderators was not being honoured for plugin compatibility tests
+- Fixed: Blacklisted plugins not being caught if Plugin's URL subject to redirection
+
 ###2017-12-09
 - Fixed: Out of memory errors if syslog files exceed PHP's default memory limits
 
