@@ -10,8 +10,13 @@
 <Description>
 CA -> AKA Apps Tab  is more than just searching for and installing docker and plugin applications.  It also offers automatic updates of plugins, scheduled backups of your flashdrive, appdata, resource monitor, cleaning up of appdata shares.
 </Description>
-<Date>2017-12-09</Date>
+<Date>2017-12-20</Date>
 <Changes>
+###2017.12.20
+- Suppress error if moderation changes an applications's repository
+- For new/updated apps, if no Date entry in template, use DateInstalled if available
+- Under certain circumstances, app of the day would not display enough apps to fill screen
+
 ###2017.12.09a
 - Changed: Moderation entries regarding compatibility of applications take effect immediately without waiting for an appfeed update
 
