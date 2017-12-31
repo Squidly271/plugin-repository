@@ -10,8 +10,12 @@
 <Description>
 CA -> AKA Apps Tab  is more than just searching for and installing docker and plugin applications.  It also offers automatic updates of plugins, scheduled backups of your flashdrive, appdata, resource monitor, cleaning up of appdata shares.
 </Description>
-<Date>2017-12-20</Date>
+<Date>2017-12-31</Date>
 <Changes>
+###2017.12.31
+- Compatibility release for unRaid 6.4RC19+
+- Icon mode skin fix
+
 ###2017.12.20
 - Suppress error if moderation changes an applications's repository
 - For new/updated apps, if no Date entry in template, use DateInstalled if available
