@@ -13,7 +13,7 @@ CA -> AKA Apps Tab  is more than just searching for and installing docker and pl
 <Date>2018-01-01</Date>
 <Changes>
 ###2018.01.01
-- Under certain circumstances, a template could mistakenly be deprecated
+- Fixed: Under certain circumstances, a template could mistakenly be deprecated
 
 ###2017.12.31
 - Compatibility release for unRaid 6.4RC19+
