@@ -10,8 +10,13 @@
 <Description>
 CA Fix Common Problems is designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2017-12-11</Date>
+<Date>2018-01-06</Date>
 <Changes>
+###2018-01-06
+- Fixed: Hack attempts within the first 10 days of a month would not show the day
+- Added: Check for incompatible docker apps present
+- Added: 5 minute delay after server startup before running tests
+
 ###2017-12-11
 - Fixed: Minimum/Maximum versions of unRaid for plugin compatibility set by CA moderators was not being honoured for plugin compatibility tests
 - Fixed: Blacklisted plugins not being caught if Plugin's URL subject to redirection
