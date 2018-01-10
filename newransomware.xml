@@ -9,8 +9,11 @@
 <Name>Ransomware Protection</Name>
 <Description>
 Ransomware Protection is a type of anti-virus program designed to protect your server from a ransomware attack</Description>
-<Date>2017-05-21</Date>
+<Date>2018-01-09</Date>
 <Changes>
+###2018.01.09
+- Update URLs for help file pictures
+
 ###2017.05.21
 - Fixed: Disk share settings not properly restoring
 

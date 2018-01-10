@@ -10,8 +10,11 @@
 <Description>
 CA Fix Common Problems is designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2018-01-06</Date>
+<Date>2018-01-09</Date>
 <Changes>
+###2018-01-09
+- Changed: Delay execution of startup scans by 10 minutes, and run as a background process
+
 ###2018-01-06
 - Fixed: Hack attempts within the first 10 days of a month would not show the day
 - Added: Check for incompatible docker apps present
