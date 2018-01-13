@@ -10,8 +10,12 @@
 <Description>
 CA Fix Common Problems is designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2018-01-09</Date>
+<Date>2018-01-13</Date>
 <Changes>
+###2018-01-13
+- Fixed: Edge case of default docker storage location within a subfolder of a share
+- Fixed: Edge case of default docker storage location within a UD mounted device and similar named share and a cache drive exists.
+
 ###2018-01-09
 - Changed: Delay execution of startup scans by 10 minutes, and run as a background process
 
