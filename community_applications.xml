@@ -10,8 +10,15 @@
 <Description>
 CA -> AKA Apps Tab  is more than just searching for and installing docker and plugin applications.  It also offers automatic updates of plugins, scheduled backups of your flashdrive, appdata, resource monitor, cleaning up of appdata shares.
 </Description>
-<Date>2018-01-01</Date>
+<Date>2018-01-20</Date>
 <Changes>
+###2018.01.20
+- Make get more results from dockerHub more obvious that its a link
+- Fixed: Install / Edit icons from app popups didn't return to apps tab when done
+- Remove some development only code
+- Remove compatibility code for unRaid &lt; 6.3.3 (Now separately downloaded if required)
+- Remove all png icons and switch to font-awesome exclusively (download size now 52k vs 144k)
+
 ###2018.01.01
 - Fixed: Under certain circumstances, a template could mistakenly be deprecated
 
