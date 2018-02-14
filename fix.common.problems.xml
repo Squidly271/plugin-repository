@@ -10,8 +10,12 @@
 <Description>
 CA Fix Common Problems is designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2018-01-18</Date>
+<Date>2018-02-14</Date>
 <Changes>
+###2018-02-14
+- Added: Check for mover logging enabled (recommended to be disabled)
+- Added: Check for zenstates installed on Ryzen CPU
+
 ###2018-01-18
 - Added: CPU Overheating causing throttle down test (May not work on all CPUs though)
 - Added: Statistics plugin installed, but Preclear plugin not installed (recommend to uninstall Statistics)
