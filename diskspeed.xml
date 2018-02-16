@@ -12,7 +12,7 @@ This utility will perform read tests at different points on each drive attached 
 <MaxVer>6.4.0-rc7a</MaxVer>
 <Changes>
 ###2017.05.04
-- Changed: History now stored in 24Hour format (for proper sorting)
+- Changed: History now stored in 24Hour format for proper sorting
 - Fixed: Extra info not displaying when using Dynamix with Black theme (fix going forward - previously generated charts won't display extra info)
 
 ###2017.05.02
