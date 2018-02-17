@@ -10,8 +10,14 @@
 <Description>
 CA -> AKA Apps Tab  is more than just searching for and installing docker and plugin applications.  It also offers automatic updates of plugins, scheduled backups of your flashdrive, appdata, resource monitor, cleaning up of appdata shares.
 </Description>
-<Date>2018-01-28</Date>
+<Date>2018-02-16</Date>
 <Changes>
+###2018.02.16
+- Code Clean Up
+- Fixed: Official Containers would not appear in installed apps section
+- Fixed: Prevent Previously Installed But Now Blacklisted Apps from throwing out Total # found in Previous Apps
+- Minor changes to links at top right to improve usability
+
 ###2018.01.28
 - Minor fixes / skin enhancements
 - More accurate dockerHub conversions for majority of containers
