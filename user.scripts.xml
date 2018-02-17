@@ -9,8 +9,13 @@
 <Description>
 CA User scripts is designed to be a front end to execute user scripts without having to drop down to the command line.
 </Description>
-<Date>2017-11-18</Date>
+<Date>2018-02-16</Date>
+<MinVer>6.3.3</MinVer>
 <Changes>
+###2018.02.16
+- Some UI changes (more intuitive)
+- Fix CornTab link
+
 ###2017.11.18
 - Fix changed URL for corntab
 
