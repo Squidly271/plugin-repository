@@ -14,8 +14,8 @@ CA -> AKA Apps Tab  is more than just searching for and installing docker and pl
 <Changes>
 ###2018.02.16
 - Code Clean Up
-- Fixed: Official Containers would not appear in installed apps section
-- Fixed: Prevent Previously Installed But Now Blacklisted Apps from throwing out Total # found in Previous Apps
+- Fixed Official Containers would not appear in installed apps section
+- Fixed Prevent Previously Installed But Now Blacklisted Apps from throwing out Total # found in Previous Apps
 - Minor changes to links at top right to improve usability
 
 ###2018.01.28
