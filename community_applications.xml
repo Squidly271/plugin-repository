@@ -10,8 +10,17 @@
 <Description>
 CA -> AKA Apps Tab  is more than just searching for and installing docker and plugin applications.  It also offers automatic updates of plugins, scheduled backups of your flashdrive, appdata, resource monitor, cleaning up of appdata shares.
 </Description>
-<Date>2018-02-16</Date>
+<Date>2018-02-19</Date>
 <Changes>
+###2018.02.19
+- Changed: Don't display previously installed docker apps if docker service isn't running
+- Fixed: Only display incompatible plugins in previous apps section if CA Settings allow display of incompatible apps
+- Fixed: Regression error if docker isn't running (error messages would have appeared)
+- Many Code optimizations
+- Fixed: Minor stats count inconsistencies
+- Fixed: Pinning an app that also had a duplicated (but blacklisted) template wouldn't work
+- Fixed: Previously possible for CA to believe it had downloaded an updated application feed, but due to 3rd party caching the feed may have been an older version
+
 ###2018.02.16
 - Code Clean Up
 - Fixed: Official Containers would not appear in installed apps section
