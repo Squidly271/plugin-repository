@@ -10,8 +10,12 @@
 <Description>
 CA -> AKA Apps Tab  is more than just searching for and installing docker and plugin applications.  It also offers automatic updates of plugins, scheduled backups of your flashdrive, appdata, resource monitor, cleaning up of appdata shares.
 </Description>
-<Date>2018-02-19</Date>
+<Date>2018-03-02</Date>
 <Changes>
+###2018.03.02
+- Fixed: PHP warnings (hidden) being issued in unRaid 6.5.0+
+- Fixed: Apps with special characters in name would not install
+
 ###2018.02.19
 - Changed: Don't display previously installed docker apps if docker service isn't running
 - Fixed: Only display incompatible plugins in previous apps section if CA Settings allow display of incompatible apps
