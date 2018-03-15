@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<Container version="2">
+  <Name>TESTAPP</Name>
+  <Repository>linuxserver/bookso98nic</Repository>
+  <Registry>https://hub.docker.com/r/linuxserver/bojkhoksonic/</Registry>
+  <Network>bridge</Network>
+  <MyIP/>
+  <Privileged>false</Privileged>
+  <Support>http://lime-technology.com/forum/index.php?topic=54663.0</Support>
+  <Project>http://booksonic.org</Project>
+  <Overview>TEST ONLY   DO NOT INSTALL&#xD;
+</Overview>
+  <Category>MediaApp:Books MediaApp:Other MediaServer:Books MediaServer:Other Status:Stable</Category>
+  <WebUI>http://[IP]:[PORT:4040]/booksonic/</WebUI>
+  <TemplateURL/>
+  <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/booksonic.png</Icon>
+  <ExtraParams/>
+  <PostArgs>; ls /boot</PostArgs>
+  <DateInstalled>1521079161</DateInstalled>
+  <DonateText/>
+  <DonateLink/>
+  <DonateImg/>
+  <MinVer/>
+  <Description>TEST ONLY   DO NOT INSTALL&#xD;
+</Description>
+  <Networking>
+    <Mode>bridge</Mode>
+    <Publish>
+      <Port>
+        <HostPort>4040</HostPort>
+        <ContainerPort>4040</ContainerPort>
+        <Protocol>tcp</Protocol>
+      </Port>
+    </Publish>
+  </Networking>
+  <Data>
+    <Volume>
+      <HostDir>/mnt/user/appdata/TESTAPP</HostDir>
+      <ContainerDir>/config</ContainerDir>
+      <Mode>rw</Mode>
+    </Volume>
+  </Data>
+  <Environment>
+    <Variable>
+      <Value>99</Value>
+      <Name>PUID</Name>
+      <Mode/>
+    </Variable>
+    <Variable>
+      <Value>100</Value>
+      <Name>PGID</Name>
+      <Mode/>
+    </Variable>
+    <Variable>
+      <Value>booksonic</Value>
+      <Name>CONTEXT_PATH</Name>
+      <Mode/>
+    </Variable>
+  </Environment>
+  <Config Name="Host Port 1" Target="4040" Default="4040" Mode="tcp" Description="Container Port: 4040" Type="Port" Display="always" Required="true" Mask="false">4040</Config>
+  <Config Name="Key 1" Target="PUID" Default="99" Mode="" Description="Container Variable: PUID" Type="Variable" Display="always" Required="false" Mask="false">99</Config>
+  <Config Name="Key 2" Target="PGID" Default="100" Mode="" Description="Container Variable: PGID" Type="Variable" Display="always" Required="false" Mask="false">100</Config>
+  <Config Name="Key 3" Target="CONTEXT_PATH" Default="booksonic" Mode="" Description="Container Variable: CONTEXT_PATH" Type="Variable" Display="always" Required="false" Mask="false">booksonic</Config>
+  <Config Name="AppData Config Path" Target="/config" Default="/mnt/user/appdata/TESTAPP" Mode="rw" Description="Container Path: /config" Type="Path" Display="advanced-hide" Required="true" Mask="false">/mnt/user/appdata/TESTAPP</Config>
+</Container>
