@@ -10,8 +10,11 @@
 <Description>
 CA Fix Common Problems is designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2018-03-14</Date>
+<Date>2018-03-15</Date>
 <Changes>
+###2018-03-15
+- Additional tests and fixes on Update Assistant
+
 ###2018-03-18
 - Add in Update Assistant to check for compatibility prior to Updating unRaid OS
 
