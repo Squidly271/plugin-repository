@@ -10,8 +10,15 @@
 <Description>
 CA Fix Common Problems is designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2018-03-16</Date>
+<Date>2018-03-17</Date>
 <Changes>
+###2018-03-17a
+- Fix compatibility against branch Next when no next branch exists
+- Suppress warning if Settings - Global Share settings have never been changed
+
+###2018-03-17
+- Fix compatibility with unRaid 6.3.5
+
 ###2018-03-16
 - Fix partition start test on nvme drives
 
