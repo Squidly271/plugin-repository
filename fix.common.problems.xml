@@ -10,8 +10,11 @@
 <Description>
 CA Fix Common Problems is designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2018-03-15</Date>
+<Date>2018-03-16</Date>
 <Changes>
+###2018-03-16
+- Fix partition start test on nvme drives
+
 ###2018-03-15
 - Additional tests and fixes on Update Assistant
 
