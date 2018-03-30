@@ -11,8 +11,11 @@
 CA -> AKA Apps Tab  is more than just searching for and installing docker and plugin applications.  It also offers automatic updates of plugins, scheduled backups of your flashdrive, appdata, resource monitor, cleaning up of appdata shares.
 </Description>
 <MinVer>6.1.8</MinVer>
-<Date>2018-03-14</Date>
+<Date>2018-03-30</Date>
 <Changes>
+###2018.03.30
+- Support environment variables in dockerhub conversions
+
 ###2018.03.14
 - Security Fix: Prevent a malicious template from arbitrarily executing commands
 
