@@ -9,9 +9,12 @@
 <Description>
 CA User scripts is designed to be a front end to execute user scripts without having to drop down to the command line.
 </Description>
-<Date>2018-02-16</Date>
+<Date>2018-03-31</Date>
 <MinVer>6.3.3</MinVer>
 <Changes>
+###2018.03.31
+- Allow a scheduled script to not execute if a parity check / rebuild in progress via inline variable
+
 ###2018.02.16
 - Some UI changes (more intuitive)
 - Fix CornTab link
