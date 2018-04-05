@@ -11,7 +11,7 @@
 CA -> AKA Apps Tab  is more than just searching for and installing docker and plugin applications.  It also offers automatic updates of plugins, scheduled backups of your flashdrive, appdata, resource monitor, cleaning up of appdata shares.
 </Description>
 <MinVer>6.1.8</MinVer>
-<Date>2018-05-02</Date>
+<Date>2018-04-02</Date>
 <Changes>
 ###2018.04.02
 - Revamp of how legacy mode downloads
