@@ -11,8 +11,16 @@
 CA -> AKA Apps Tab  is more than just searching for and installing docker and plugin applications.  It also offers automatic updates of plugins, scheduled backups of your flashdrive, appdata, resource monitor, cleaning up of appdata shares.
 </Description>
 <MinVer>6.1.8</MinVer>
-<Date>2018-03-30</Date>
+<Date>2018-05-02</Date>
 <Changes>
+###2018.04.02
+- Revamp of how legacy mode downloads
+- Fix stats display when bouncing back and forth between legacy mode and appfeed mode
+- Suppress PHP errors when appfeed download fails and you display the stats
+- Lower download timeouts from 60 seconds to 45
+- Don't allow CA to operate unless you've accepted the disclaimer
+- Ability to display a Public Service Announcement if the appfeed fails to download
+
 ###2018.03.30
 - Support environment variables in dockerhub conversions
 
