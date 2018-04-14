@@ -11,6 +11,9 @@
 A simple plugin to fine tune the operation of the scheduled mover script.  Only run when cache space is getting low; don't run if a parity check / rebuild is in progress; Or completely disable the scheduled moves
 </Description>
 <Changes>
+###2018.04.14
+- Add in forced mover schedule
+
 ###2018.04.12
 - Fix logic error on freespace calculation
 - Prevent mover running again if move already in progress
@@ -19,7 +22,7 @@ A simple plugin to fine tune the operation of the scheduled mover script.  Only 
 ###2018.04.08
 - Initial Release
 </Changes>
-<Date>2018-04-12</Date>
+<Date>2018-04-14</Date>
 <Support>https://lime-technology.com/forums/topic/70783-plugin-mover-tuning/</Support>
 <Icon>https://github.com/Squidly271/ca.mover.tuning/raw/master/source/ca.mover.tuning/usr/local/emhttp/plugins/ca.mover.tuning/images/ca.mover.tuning.png</Icon>
 <DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
