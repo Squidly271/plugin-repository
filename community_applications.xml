@@ -11,8 +11,22 @@
 CA -> AKA Apps Tab  is more than just searching for and installing docker and plugin applications.  It also offers automatic updates of plugins, scheduled backups of your flashdrive, appdata, resource monitor, cleaning up of appdata shares.
 </Description>
 <MinVer>6.1.8</MinVer>
-<Date>2018-04-02</Date>
+<Date>2018-04-22</Date>
 <Changes>
+###2018.04.22
+- Drop compatibility with unRaid 6.3.x / 6.2 / 6.1.  Minimum OS required now 6.4.0
+- Remove all compatibility code
+- Less annoying highlights on search results
+- Fixed reference to URL for alternative app icon image
+- Removed Icon display mode
+- Always have the apps displayed centered, regardless of browser width or number of results
+- Revamp of 'Searching' info popups
+- Removed link to announcement thread for repositories
+- Added ability to display changelogs on plugins when an update is available
+
+###2018.04.08
+- Fixed: Regression error where if a duplicated plugin was installed (eg: libvirt hotplug), both plugins would display instead of only the proper one
+
 ###2018.04.02
 - Revamp of how legacy mode downloads
 - Fix stats display when bouncing back and forth between legacy mode and appfeed mode
