@@ -11,8 +11,21 @@
 CA -> AKA Apps Tab  is more than just searching for and installing docker and plugin applications.  It also offers automatic updates of plugins, scheduled backups of your flashdrive, appdata, resource monitor, cleaning up of appdata shares.
 </Description>
 <MinVer>6.1.8</MinVer>
-<Date>2018-04-22</Date>
+<Date>2018-05-05</Date>
 <Changes>
+###2018.05.05
+- Fixed: When switching to Legacy Mode from Previous Apps, the install buttons would remain on screen
+- Added: Selectable if search box is always in focus or not
+- Fixed: Search box is disabled when not appropriate to search
+- Remove some excess code for unused skin items
+- Fixed: If favourite repository is enabled, don't display header if no items exist in favourite repository
+- Misc: Skin adjustments
+- Misc: Coding optimizations
+- Fixed: Don't pluralize Random Apps Of Day if viewing width only allows one app to display
+- Fixed: If browser width less than dynamix minimum display width, don't center applications
+- Fixed: Regression error (size of icons) on dockerhub searches
+- Added: Code to detect if running on mobile device and adjust accordingly
+
 ###2018.04.22
 - Drop compatibility with unRaid 6.3.x / 6.2 / 6.1.  Minimum OS required now 6.4.0
 - Remove all compatibility code
