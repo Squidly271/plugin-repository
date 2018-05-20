@@ -10,9 +10,20 @@
 <Description>
 CA -> AKA Apps Tab  is more than just searching for and installing docker and plugin applications.  It also offers automatic updates of plugins, scheduled backups of your flashdrive, appdata, resource monitor, cleaning up of appdata shares.
 </Description>
-<MinVer>6.1.8</MinVer>
-<Date>2018-05-05</Date>
+<MinVer>6.4.0</MinVer>
+<Date>2018-05-20</Date>
 <Changes>
+###2018.05.20
+- Major template display redesign
+- Removed: Table Mode
+- Added: Narrow or Wide skin (selectable from settings)
+- Changed: DockerHub searches now utilize the skin settings
+- Added: Mobile Devices can now swipe left / right to change pages when search results are more than a single page
+- Removed: Ability to display all search results at once.  Limited now to 100 per page
+- Removed: Search Bar focus options.  Didn't quite work in practice.
+- Deprecated DonateImg tag in templates.  Always use a stock Donate image
+- Reverted: If display width is less than 1080 pixels, keep templates centered on 1080px
+
 ###2018.05.05
 - Fixed: When switching to Legacy Mode from Previous Apps, the install buttons would remain on screen
 - Added: Selectable if search box is always in focus or not
