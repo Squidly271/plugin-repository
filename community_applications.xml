@@ -11,8 +11,16 @@
 CA -> AKA Apps Tab  is more than just searching for and installing docker and plugin applications.  It also offers automatic updates of plugins, scheduled backups of your flashdrive, appdata, resource monitor, cleaning up of appdata shares.
 </Description>
 <MinVer>6.4.0</MinVer>
-<Date>2018-05-23</Date>
+<Date>2018-06-03</Date>
 <Changes>
+###2018.06.03
+- After installing a container, Apps tab when reloading will go back to where it left off
+- Round off download counts in pop ups
+- Misc optimizations
+- CSS fixes
+- Search categories directly from the app's display
+- Remove All option from maximum displayed per page
+
 ###2018.05.23
 - Fix compatibility with 6.5.2 (uninstalled applications would still appear to be installed)
 
