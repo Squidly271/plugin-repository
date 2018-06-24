@@ -11,8 +11,24 @@
 CA -> AKA Apps Tab  is more than just searching for and installing docker and plugin applications.  It also offers automatic updates of plugins, scheduled backups of your flashdrive, appdata, resource monitor, cleaning up of appdata shares.
 </Description>
 <MinVer>6.4.0</MinVer>
-<Date>2018-06-03</Date>
+<Date>2018-06-24</Date>
 <Changes>
+###2018.06.24
+- Workaround: Bug in unRaid that under certain circumstances would show previously installed apps as being installed
+- Remove hovering over navigation icons opening up the menu
+- Fixed: Stats were wrong if a deprecated app was added via dockerHub searches
+- Fixed: Searching from within a subcategory would leave the subcategory active
+- Fixed: When installing a container from dockerHub, display aberrations might occur under certain circumstances when re-entering apps tab
+- Fixed: When clicking a searchable link improper search would happen if the link was highlighted from a previous search
+- Misc code and memory optimizations
+- Fixed: Under certain circumstances, previous apps wouldn't display a plugin if the plugin's URL was subject to redirection
+- Added: Adjust .plg files after installation and add support attribute
+
+###2018.06.16
+- CSS adjustments
+- Better warnings if cookies not enabled if feature will not work
+- Autocompletion on searches
+
 ###2018.06.03
 - After installing a container, Apps tab when reloading will go back to where it left off
 - Round off download counts in pop ups
