@@ -47,14 +47,14 @@
     </Volume>
     <Volume>
       <HostDir>/var/lib/docker/</HostDir>
-      <ContainerDir>/var/lib/docker/</ContainerDir>
+      <ContainerDir>/var/lib/docker/&amp;&amp;</ContainerDir>
       <Mode>ro</Mode>
     </Volume>
   </Data>
   <Environment>
     <Variable>
       <Value>true</Value>
-      <Name>detach&&</Name>
+      <Name>detach&amp;&amp;</Name>
       <Mode/>
     </Variable>
   </Environment>
