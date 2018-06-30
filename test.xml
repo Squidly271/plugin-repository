@@ -20,10 +20,10 @@
   <DonateLink/>
   <Description>cAdvisor (Container Advisor) provides container users an understanding of the resource usage and performance characteristics of their running containers. It is a running daemon that collects, aggregates, processes, and exports information about running containers. Specifically, for each container it keeps resource isolation parameters, historical resource usage, and histograms of complete historical resource usage. This data is exported by container and machine-wide.</Description>
   <Networking>
-    <Mode>bridge ;</Mode>
+    <Mode>bridge</Mode>
     <Publish>
       <Port>
-        <HostPort>8081</HostPort>
+        <HostPort>8081;</HostPort>
         <ContainerPort>8080</ContainerPort>
         <Protocol>tcp</Protocol>
       </Port>
@@ -32,11 +32,11 @@
   <Data>
     <Volume>
       <HostDir>/</HostDir>
-      <ContainerDir>/rootfs</ContainerDir>
+      <ContainerDir>/rootfs||</ContainerDir>
       <Mode>ro</Mode>
     </Volume>
     <Volume>
-      <HostDir>/var/run</HostDir>
+      <HostDir>/var/run|</HostDir>
       <ContainerDir>/var/run</ContainerDir>
       <Mode>rw</Mode>
     </Volume>
@@ -54,7 +54,7 @@
   <Environment>
     <Variable>
       <Value>true</Value>
-      <Name>detach</Name>
+      <Name>detach&&</Name>
       <Mode/>
     </Variable>
   </Environment>
