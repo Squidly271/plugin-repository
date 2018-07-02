@@ -9,8 +9,12 @@
 <Name>Ransomware Protection</Name>
 <Description>
 Ransomware Protection is a type of anti-virus program designed to protect your server from a ransomware attack</Description>
-<Date>2018-01-09</Date>
+<Date>2018-07-02</Date>
 <Changes>
+###2018.07.02
+- Most likely the final version of this plugin
+- Remove read-only options.  In case of an attack, array MUST be stopped and restarted in order to resume normal operations
+
 ###2018.01.09
 - Update URLs for help file pictures
 
