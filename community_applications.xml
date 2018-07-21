@@ -8,11 +8,24 @@
 <Name>Community Applications</Name>
 <CA>true</CA>
 <Description>
-CA -> AKA Apps Tab  is more than just searching for and installing docker and plugin applications.  It also offers automatic updates of plugins, scheduled backups of your flashdrive, appdata, resource monitor, cleaning up of appdata shares.
+This is THE place to find add-on applications for your unRaid server.
 </Description>
 <MinVer>6.4.0</MinVer>
-<Date>2018-06-24</Date>
+<Date>2018-07-20</Date>
 <Changes>
+###2018.07.20
+- Changed: Clicking an autocomplete suggestion will now immediately search
+- Changed: Startup Screen (random / new apps) will now display up to the Max Per Page drop down
+- Changed: Random startup apps will no longer display an installed application
+
+###2018.07.08
+- Fixed: If an app didn't specify an icon, it wouldn't show up as being installed on all screens
+- Fixed: Author would come up incorrect if application wasn't hosted on dockerHub
+- Chenged: Default skin now Narrow
+- Added: Selectable startup screen of either New Apps or Random Apps
+- Changed: New App category will now always display all new apps up to 10 years old
+- Enhanced: Tighten up some rules on when to automatically remove an app from lists due to template errors
+
 ###2018.06.24
 - Workaround: Bug in unRaid that under certain circumstances would show previously installed apps as being installed
 - Remove hovering over navigation icons opening up the menu
