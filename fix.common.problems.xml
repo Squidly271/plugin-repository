@@ -10,8 +10,12 @@
 <Description>
 CA Fix Common Problems is designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2018-06-21</Date>
+<Date>2018-07-21</Date>
 <Changes>
+###2018-07-21
+- Issue Other Comment if PHP warnings are enabled
+- Issue Error if Share's disk include settings includes a disk that isn't present
+
 ###2018-06-21
 - Update link for OS out of date
 
