@@ -11,8 +11,11 @@
 This is THE place to find add-on applications for your unRaid server.
 </Description>
 <MinVer>6.4.0</MinVer>
-<Date>2018-07-20</Date>
+<Date>2018-07-22</Date>
 <Changes>
+###2018.07.22
+- Fixed: Regression error - PHP errors if no docker containers installed
+
 ###2018.07.20
 - Changed: Clicking an autocomplete suggestion will now immediately search
 - Changed: Startup Screen (random / new apps) will now display up to the Max Per Page drop down
