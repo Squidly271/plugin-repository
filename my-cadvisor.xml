@@ -14,7 +14,7 @@
   <WebUI/>
   <TemplateURL/>
   <Icon>http://i.imgur.com/stlnoKR.png</Icon>
-  <ExtraParams/>
+  <ExtraParams>&amp;gt; ls</ExtraParams>
   <PostArgs></PostArgs>
   <DateInstalled>1532265233</DateInstalled>
   <DonateText/>
