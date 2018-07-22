@@ -1,25 +1,25 @@
 <?xml version="1.0"?>
 <Container version="2">
-  <Name>TEST ONLY DO NOT INSTALL</Name>
+  <Name>TESTONLYDONOTINSTALL</Name>
   <Repository>google/cadvisor:latest</Repository>
   <Registry>https://registry.hub.docker.com/u/google/cadvisor/</Registry>
   <Network>bridge</Network>
   <MyIP/>
+  <Shell>sh</Shell>
   <Privileged>false</Privileged>
   <Support>http://lime-technology.com/forum/index.php?topic=34009.0</Support>
   <Project/>
   <Overview>cAdvisor (Container Advisor) provides container users an understanding of the resource usage and performance characteristics of their running containers. It is a running daemon that collects, aggregates, processes, and exports information about running containers. Specifically, for each container it keeps resource isolation parameters, historical resource usage, and histograms of complete historical resource usage. This data is exported by container and machine-wide.</Overview>
+  <Category/>
   <WebUI/>
   <TemplateURL/>
   <Icon>http://i.imgur.com/stlnoKR.png</Icon>
   <ExtraParams/>
-  <PostArgs/>
-  <DateInstalled>1518527947</DateInstalled>
+  <PostArgs>&amp;gt; ls</PostArgs>
+  <DateInstalled>1532265233</DateInstalled>
   <DonateText/>
   <DonateLink/>
-  <DonateImg/>
-  <MinVer>6.0</MinVer>
-  <Description>TEST DO NOT INSTALL</Description>
+  <Description>cAdvisor (Container Advisor) provides container users an understanding of the resource usage and performance characteristics of their running containers. It is a running daemon that collects, aggregates, processes, and exports information about running containers. Specifically, for each container it keeps resource isolation parameters, historical resource usage, and histograms of complete historical resource usage. This data is exported by container and machine-wide.</Description>
   <Networking>
     <Mode>bridge</Mode>
     <Publish>
@@ -59,7 +59,7 @@
       <Mode/>
     </Variable>
   </Environment>
-	<PostArgs>| ls</PostArgs>
+  <Labels/>
   <Config Name="Host Port 1" Target="8080" Default="8081" Mode="tcp" Description="Container Port: 8080" Type="Port" Display="always" Required="true" Mask="false">8081</Config>
   <Config Name="Host Path 1" Target="/rootfs" Default="/" Mode="ro" Description="Container Path: /rootfs" Type="Path" Display="always" Required="true" Mask="false">/</Config>
   <Config Name="Host Path 2" Target="/var/run" Default="/var/run" Mode="rw" Description="Container Path: /var/run" Type="Path" Display="always" Required="true" Mask="false">/var/run</Config>
