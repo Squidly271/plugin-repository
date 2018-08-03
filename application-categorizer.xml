@@ -8,7 +8,7 @@
 <Name>CA Application Categorizer</Name>
 <CA>accessory</CA>
 <MinVer>6.0</MinVer>
-<Licence>Public Domain</Licence>
+<Licence>Public Domain123</Licence>
 <Description>
 This plugin is for application developers ONLY.  It will create the category entries for application templates so that Community Applications can display the apps correctly.  (Either docker apps or plugins)
 </Description>
