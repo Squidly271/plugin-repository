@@ -6,7 +6,6 @@
 <Beta>False</Beta>
 <Category>Tools:System</Category>
 <Name>CA Appdata Backup/Restore v2</Name>
-<CA>built-in</CA>
 <Date>2018-03-02</Date>
 <Description>
 Community Applications appdata backup / restore module allows you to easily (and on a schedule) create backups of your docker appdata folder and restore them in the event of a cache drive failure.
