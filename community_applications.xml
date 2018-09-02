@@ -11,8 +11,19 @@
 This is THE place to find add-on applications for your unRaid server.
 </Description>
 <MinVer>6.4.0</MinVer>
-<Date>2018-07-22</Date>
+<Date>2018-09-01</Date>
 <Changes>
+###2018.09.01
+- Adjust CSS if unRaid is 6.6+
+- Many code optimizations
+- Remove ability to switch number of results displayed (Computers / Tablets will now display 25 results.  Cellphones will display 10 results)
+- Fixed: Under certain circumstances, a blank category could appear in the popup display
+- Autocomplete searches now include Categories in the list
+- Remove any CPU pinning from a template present in the application feed
+- unRaid 6.6+: Automatically blacklist applications if they violate the new security precautions present in docker on unRaid 6.6+
+- Remove Wide theme
+- Much, much more
+
 ###2018.07.22
 - Fixed: Regression error - PHP errors if no docker containers installed
 

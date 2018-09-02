@@ -10,8 +10,26 @@
 <Description>
 CA Fix Common Problems is designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2018-07-21</Date>
+<Date>2018-09-02</Date>
 <Changes>
+###2018-09-02
+- Update Assistant always recommend to delete dynamix.plg
+
+###2018-09-01
+- Add in checks for --cpuset-cpus on unRaid 6.6
+
+###2018-08-05
+- Revamp GitHub test
+
+###2018-07-28
+- Fix update plugins link
+
+###2018-07-26
+- Add identifier to Notifications
+
+###2018-07-25
+- Remove call trace test
+
 ###2018-07-21
 - Issue Other Comment if PHP warnings are enabled
 - Issue Error if Share's disk include settings includes a disk that isn't present
