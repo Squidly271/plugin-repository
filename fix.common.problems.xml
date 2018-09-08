@@ -10,8 +10,14 @@
 <Description>
 CA Fix Common Problems is designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2018-09-02</Date>
+<Date>2018-09-08</Date>
 <Changes>
+###2018-09-08
+- Add in checks for CPU isolation and Docker CPU pinning colliding on unRaid 6.6+
+
+###2018-09-07
+- Fixed unRaid version tests for CPU pinning
+
 ###2018-09-02
 - Update Assistant always recommend to delete dynamix.plg
 
