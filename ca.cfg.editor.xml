@@ -11,6 +11,9 @@
 CA Config Editor is a simple file editor for advanced users that will allow you to edit within your browser any of unRaid's configuration files (or any file on your server - useful for easily editing application's appdata config files without utilizing the command prompt)
 </Description>
 <Changes>
+###2018.09.09
+- Allow resize of windows
+
 ###2018.08.12
 - Don't allow lines to wrap
 
@@ -25,7 +28,7 @@ CA Config Editor is a simple file editor for advanced users that will allow you 
 ###2017.04.06
 - Initial Release
 </Changes>
-<Date>2018-08-12</Date>
+<Date>2018-09-09</Date>
 <Support>https://forums.lime-technology.com/topic/56382-plugin-ca-config-editor/</Support>
 <Icon>https://github.com/Squidly271/ca.cfg.editor/raw/master/source/ca.cfg.editor/usr/local/emhttp/plugins/ca.cfg.editor/images/large.png</Icon>
 <DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
