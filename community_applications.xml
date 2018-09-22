@@ -11,8 +11,18 @@
 This is THE place to find add-on applications for your unRaid server.
 </Description>
 <MinVer>6.4.0</MinVer>
-<Date>2018-09-01</Date>
+<Date>2018-09-22</Date>
 <Changes>
+###2018.09.22
+- Changed: Startup displays now follow settings for including already installed apps
+- Added: Able to start / stop installed docker apps from within Installed Apps section
+- Fixed: If installing a previous app by itself, then don't display checkbox to delete the template after installation finished
+- Changed: Some minor 6.6 code compatibility updates
+- Misc coding optimizations
+- Added: Automatically remove a docker template if it's not a valid repository (ie: it must all be in lowercase)
+- Fixed: Random app of day should not display date updated
+- Added: Always display https images.  (Selectable in options: Abilty to downgrade to http (default) or don't display at all)
+
 ###2018.09.01
 - Adjust CSS if unRaid is 6.6+
 - Many code optimizations
