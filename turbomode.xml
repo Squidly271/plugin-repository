@@ -8,7 +8,7 @@
 <Name>CA Auto Turbo Write Mode</Name>
 <CA>AddOn</CA>
 <Description>
-CA Auto Turbo Write Mode will automatically enable or disable turbo write mode (reconstruct) depending upon the number of hard drives currently spinning.  This could result is significantly faster write speeds to the array without needlessly spinning up disks.
+CA Auto Turbo Write Mode will automatically enable or disable turbo write mode depending upon the number of hard drives currently spinning.  This could result is significantly faster write speeds to the array without needlessly spinning up disks.
 </Description>
 <Changes>
 ###2017.11.23
