@@ -11,8 +11,11 @@
 This is THE place to find add-on applications for your unRaid server.
 </Description>
 <MinVer>6.4.0</MinVer>
-<Date>2018-09-22</Date>
+<Date>2018-09-28</Date>
 <Changes>
+###2018.09.28
+- Compatibility fix for unRaid 6.6.2
+
 ###2018.09.22
 - Changed: Startup displays now follow settings for including already installed apps
 - Added: Able to start / stop installed docker apps from within Installed Apps section
