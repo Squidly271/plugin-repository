@@ -10,8 +10,15 @@
 This is THE place to find add-on applications for your unRaid server.
 </Description>
 <MinVer>6.4.0</MinVer>
-<Date>2018-10-02</Date>
+<Date>2018-10-08</Date>
 <Changes>
+###2018.10.08
+- Maintenance update
+- Handle slight difference in how 6.6.1 handles templates
+- Fixed: Regression error on searching for authors from popups
+- Distinguish between new apps and updated apps on startup screen
+- Fixed: Stats out to lunch on fixed errors if CPUSet was present in template
+
 ###2018.10.02
 REQUIRED UPDATE
 - Change appfeed URL
