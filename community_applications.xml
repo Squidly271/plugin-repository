@@ -12,7 +12,7 @@ This is THE place to find add-on applications for your unRaid server.
 <MinVer>6.4.0</MinVer>
 <Date>2018-10-08</Date>
 <Changes>
-Refer to [GitHub Commit History](https://github.com/Squidly271/community.applications/commits/master) (or click the info icon next to the CA version at bottom of page)
+Click the info icon next to the CA version at bottom of page for the changelog of the currently installed version, or if present the info icon at the top of the page for the changelog on the updated version.  Full commit history available on GitHub.
 </Changes>
 <Support>http://lime-technology.com/forum/index.php?topic=40262.0</Support>
 <Icon>https://github.com/Squidly271/community.applications/raw/master/source/community.applications/usr/local/emhttp/plugins/community.applications/images/community.applications.png</Icon>
