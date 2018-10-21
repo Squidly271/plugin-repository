@@ -10,8 +10,14 @@
 <Description>
 CA Fix Common Problems is designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2018-10-02</Date>
+<Date>2018-10-21</Date>
 <Changes>
+###2018-10-21
+- 6.6.3 Compatibility Fix
+
+###2018.10.19
+- Fix broken pipe
+
 ###2018-10-02
 - Update Appfeed URL for tests
 

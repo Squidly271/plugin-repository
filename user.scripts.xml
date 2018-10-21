@@ -9,9 +9,18 @@
 <Description>
 CA User scripts is designed to be a front end to execute user scripts without having to drop down to the command line.
 </Description>
-<Date>2018-03-31</Date>
+<Date>2018-10-19</Date>
 <MinVer>6.3.3</MinVer>
 <Changes>
+###2018.10.19
+- Fix broken pipe
+
+###2018.10.08
+- Remove debugging code
+
+###2018.04.02
+- Fix regression error on inline variables and custom scheduled scripts
+
 ###2018.03.31
 - Allow a scheduled script to not execute if a parity check / rebuild in progress via inline variable
 
