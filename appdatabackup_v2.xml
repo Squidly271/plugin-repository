@@ -6,11 +6,17 @@
 <Beta>False</Beta>
 <Category>Tools:System</Category>
 <Name>CA Appdata Backup/Restore v2</Name>
-<Date>2018-11-01</Date>
+<Date>2018-11-17</Date>
 <Description>
 Community Applications appdata backup / restore module allows you to easily (and on a schedule) create backups of your docker appdata folder and restore them in the event of a cache drive failure.
 </Description>
 <Changes>
+###2018.11.17
+- unRaid 6.6+: Honor autostart rules when restarting containers
+
+###2018.11.11
+- Add in autov routines
+
 ###2018.11.01
 - Fix dropdown color for 6.6
 
