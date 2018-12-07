@@ -10,8 +10,15 @@
 <Description>
 CA Fix Common Problems is designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.
 </Description>
-<Date>2018-10-21</Date>
+<Date>2018-12-07</Date>
 <Changes>
+###2018-12-07
+- Revamp of outside communication test
+- Remove happy face :(
+
+###2018-11-03
+- Fix display aberration
+
 ###2018-10-21
 - 6.6.3 Compatibility Fix
 
