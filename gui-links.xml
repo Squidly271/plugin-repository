@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/Squidly271/gui-links/master/plugins/gui-links.plg</PluginURL>
+<PluginAuthor>Andrew Zawadzki</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:System</Category>
+<Name>CA GUI Links</Name>
+<CA>AddOn</CA>
+<Description>
+A simple plugin to add in some common links to the bottom of the GUI</Description>
+<Date>2018-12-08</Date>
+<MinVer>6.6.0</MinVer>
+<Changes>
+###2018-12-08
+- Initial Release
+</Changes>
+<Support>https://forums.unraid.net/topic/76206-plugin-gui-links/</Support>
+<Icon>https://github.com/Squidly271/gui-links/raw/master/source/gui-links/usr/local/emhttp/plugins/gui-links/images/gui-links.png</Icon>
+<DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
+<DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=7M7CBCVU732XG</DonateLink>
+</Containers>
+
