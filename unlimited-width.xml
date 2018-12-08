@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/Squidly271/unlimited-width/master/unlimited-width.plg</PluginURL>
+<PluginAuthor>Andrew Zawadzki</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:System</Category>
+<Name>CA Dynamix Unlimited Width</Name>
+<CA>AddOn</CA>
+<Description>
+Allows unRaid's GUI to utilize the full browser window width instead of being limited to a maximum of 1920 pixel across</Description>
+<Date>2018-12-08</Date>
+<MinVer>6.6.0</MinVer>
+<Changes>
+###2018-12-08
+- Initial Release
+</Changes>
+<Support>https://forums.unraid.net/topic/76211-plugin-ca-dynamix-unlimited-width/</Support>
+<Icon>https://github.com/Squidly271/unlimited-width/raw/master/Webp.net-resizeimage.png</Icon>
+<DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
+<DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=7M7CBCVU732XG</DonateLink>
+</Containers>
+
