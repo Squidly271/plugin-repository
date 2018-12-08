@@ -20,6 +20,9 @@ This utility will perform read tests at different points on each drive attached 
 </Changes>
 <Date>2017-05-04</Date>
 <Support>https://forums.lime-technology.com/topic/57023-plugin-disk-speed-test/</Support>
+<PostArgs>
+     --database /etc/database.db
+</PostArgs>
 <Icon>https://github.com/Squidly271/diskspeedtest/raw/master/source/diskspeedtest/usr/local/emhttp/plugins/diskspeedtest/images/speedtest.png</Icon>
 </Containers>
 
