@@ -11,6 +11,9 @@
 Community Applications' Cleanup Appdata will scan your appdata share to determine which folders are no longer in use (from uninstalled docker applications) and allow you to delete them easily to free up hard disk space
 </Description>
 <Changes>
+###2018.12.31
+- Add in some checks for when user had a severely misconfigured application previously installed
+
 ###2018.10.19
 - Fix broken pipe
 
