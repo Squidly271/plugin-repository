@@ -16,6 +16,7 @@ Click the info icon next to the CA version at bottom of page for the changelog o
 </Changes>
 <Support>http://lime-technology.com/forum/index.php?topic=40262.0</Support>
 <Icon>https://github.com/Squidly271/community.applications/raw/master/webImages/CA%20Source%20Icon.png</Icon>
+<IconFA>icon-apps</IconFA>
 <DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
 <DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=7M7CBCVU732XG</DonateLink>
 <DonateTextViews>Buy Squid A Beer</DonateTextViews>
