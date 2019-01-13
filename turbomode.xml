@@ -37,6 +37,7 @@ CA Auto Turbo Write Mode will automatically enable or disable turbo write mode d
 <Date>2018-10-18</Date>
 <Support>https://forums.lime-technology.com/topic/55671-plugin-ca-auto-turbo-write-mode/#comment-544485</Support>
 <Icon>https://github.com/Squidly271/ca.turbo/raw/master/source/ca.turbo/usr/local/emhttp/plugins/ca.turbo/images/ca.turbo.png</Icon>
+<IconFA>tachometer</IconFA>
 <DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
 <DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=7M7CBCVU732XG</DonateLink>
 </Containers>
