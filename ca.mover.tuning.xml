@@ -31,6 +31,7 @@ A simple plugin to fine tune the operation of the scheduled mover script.  Only 
 <Date>2018-12-01</Date>
 <Support>https://lime-technology.com/forums/topic/70783-plugin-mover-tuning/</Support>
 <Icon>https://github.com/Squidly271/ca.mover.tuning/raw/master/source/ca.mover.tuning/usr/local/emhttp/plugins/ca.mover.tuning/images/ca.mover.tuning.png</Icon>
+<IconFA>music</IconFA>
 <DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
 <DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=7M7CBCVU732XG</DonateLink>
 </Containers>
