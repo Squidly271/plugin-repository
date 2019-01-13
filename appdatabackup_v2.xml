@@ -37,6 +37,7 @@ Community Applications appdata backup / restore module allows you to easily (and
 </Changes>
 <Support>https://forums.lime-technology.com/topic/61211-plugin-ca-appdata-backup-restore-v2/</Support>
 <Icon>https://github.com/Squidly271/ca.backup2/raw/master/plugins/securityIcon-WithShadow.png</Icon>
+<IconFA>shield</IconFA>
 <DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
 <DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=7M7CBCVU732XG</DonateLink>
 </Containers>
