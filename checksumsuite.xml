@@ -11,6 +11,7 @@ This plugin automatically creates md5/sha/blake2 checksums for new files on the 
 </Description>
 <Support>http://lime-technology.com/forum/index.php?topic=43396.0</Support>
 <Icon>https://raw.githubusercontent.com/Squidly271/checksum/master/source/checksum/usr/local/emhttp/plugins/checksum/images/checksum.png</Icon>
+<IconFA>check-square</IconFA>
 <Date>2018-11-30</Date>
 </Containers>
 
