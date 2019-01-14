@@ -7,11 +7,14 @@
 <Category>Tools:System</Category>
 <Name>CA Auto Update</Name>
 <CA>built-in</CA>
-<MinVer>6.2.0</MinVer>
+<MinVer>6.4.0</MinVer>
 <Description>
 Community Applications' auto update allows you to select which plugins to automatically keep up to date as updates become available.  Includes options to wait until an update is x number of days old before updating
 </Description>
 <Changes>
+###2019.01.14
+- Support new style icons
+
 ###2018.12.31
 - Update icon for future release of unRaid
 - Display aberration if plugin does not have an icon associated with it
@@ -58,7 +61,7 @@ Community Applications' auto update allows you to select which plugins to automa
 ###2016.11.11
 - Initial Separated Release
 </Changes>
-<Date>2018-12-31</Date>
+<Date>2019-01-14</Date>
 <Support>http://lime-technology.com/forum/index.php?topic=53693.0</Support>
 <Icon>https://github.com/Squidly271/ca.update.applications/raw/master/source/ca.update.applications/usr/local/emhttp/plugins/ca.update.applications/images/ca.update.applications.png</Icon>
 <IconFA>refresh</IconFA>
