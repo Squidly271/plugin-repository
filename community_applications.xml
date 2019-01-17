@@ -10,12 +10,13 @@
 This is THE place to find add-on applications for your unRaid server.
 </Description>
 <MinVer>6.4.0</MinVer>
-<Date>2019-01-06</Date>
+<Date>2019-01-17</Date>
 <Changes>
 Click the info icon next to the CA version at bottom of page for the changelog of the currently installed version, or if present the info icon at the top of the page for the changelog on the updated version.  Full commit history available on GitHub.
 </Changes>
 <Support>http://lime-technology.com/forum/index.php?topic=40262.0</Support>
 <Icon>https://github.com/Squidly271/community.applications/raw/master/webImages/CA%20Source%20Icon.png</Icon>
+<IconFA>users</IconFA>
 <DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
 <DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=7M7CBCVU732XG</DonateLink>
 <DonateTextViews>Buy Squid A Beer</DonateTextViews>
