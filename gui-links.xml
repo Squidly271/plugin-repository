@@ -17,6 +17,7 @@ A simple plugin to add in some common links to the bottom of the GUI</Descriptio
 </Changes>
 <Support>https://forums.unraid.net/topic/76206-plugin-gui-links/</Support>
 <Icon>https://github.com/Squidly271/gui-links/raw/master/source/gui-links/usr/local/emhttp/plugins/gui-links/images/gui-links.png</Icon>
+<IconFA>link</IconFA>
 <DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
 <DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=7M7CBCVU732XG</DonateLink>
 </Containers>
