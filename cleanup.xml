@@ -30,6 +30,8 @@ Community Applications' Cleanup Appdata will scan your appdata share to determin
 ###2016.11.11
 - Initial Separated Release
 </Changes>
+<Deprecated>true</Deprecated>
+<ModeratorComment>Because this plugin has the ability to delete your entire array in the case of a severely misconfigured docker application, it is now deprecated in favour of manually deleting the appdata folders via Krusader and the like.</ModeratorComment>
 <Date>2018-10-19</Date>
 <Support>http://lime-technology.com/forum/index.php?topic=53695.0</Support>
 <Icon>https://github.com/Squidly271/ca.cleanup.appdata/raw/master/source/ca.cleanup.appdata/usr/local/emhttp/plugins/ca.cleanup.appdata/images/ca.cleanup.appdata.png</Icon>
