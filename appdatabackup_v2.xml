@@ -4,7 +4,7 @@
 <PluginURL>https://raw.githubusercontent.com/Squidly271/ca.backup2/master/plugins/ca.backup2.plg</PluginURL>
 <PluginAuthor>Andrew Zawadzki</PluginAuthor>
 <Beta>False</Beta>
-<Category>Tools:System</Category>
+<Category>Tools:System Backup:</Category>
 <Name>CA Appdata Backup/Restore v2</Name>
 <Date>2018-11-17</Date>
 <Description>
