@@ -11,9 +11,6 @@ This is THE place to find add-on applications for your unRaid server.
 </Description>
 <MinVer>6.4.0</MinVer>
 <Date>2019-02-09</Date>
-<Changes>
-Click the info icon next to the CA version at bottom of page for the changelog of the currently installed version, or if present the info icon at the top of the page for the changelog on the updated version.  Full commit history available on GitHub.
-</Changes>
 <Support>http://lime-technology.com/forum/index.php?topic=40262.0</Support>
 <Icon>https://github.com/Squidly271/plugin-repository/raw/master/CA.png</Icon>
 <DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>

@@ -11,56 +11,6 @@
 <Description>
 Community Applications' auto update allows you to select which plugins to automatically keep up to date as updates become available.  Includes options to wait until an update is x number of days old before updating
 </Description>
-<Changes>
-###2019.01.14
-- Support new style icons
-
-###2018.12.31
-- Update icon for future release of unRaid
-- Display aberration if plugin does not have an icon associated with it
-
-###2018.11.11
-- autov function
-
-###2018.10.19
-- Fix broken pipe
-
-###2018.03.02
-- Fixed: PHP warnings (hidden) being issued in unRaid 6.5.0+
-
-###2017.11.23
-- Reorganization as part of updates to CA proper
-
-###2017.10.28
-- Prevent back to top displaying on 6.4.0-rc10b+
-
-###2017.06.09
-- Fix display aberration on 6.4
-- Add in support for number of seconds to wait for container to stop gracefully before killing
-
-###2017.03.18
-- Added in ability to run custom stop / start scripts for docker updates.  See CA manual for details
-
-###2017.02.19
-- Fixed uninstall routine
-
-###2016.12.18
-- Force tabbed mode display
-
-###2016.12.18
-- Force tabbed mode display
-
-###2016.11.30
-- Fix 6.2.4 Compatibility
-
-###2016.11.25
-- Added Docker App autoupdates
-- Added Selectable run times for Plugin and Docker updates
-- Fixed Under certain circumstances, plugin updates could get installed prior to age requirements
-
-###2016.11.11
-- Initial Separated Release
-</Changes>
 <Date>2019-01-14</Date>
 <Support>http://lime-technology.com/forum/index.php?topic=53693.0</Support>
 <Icon>https://github.com/Squidly271/ca.update.applications/raw/master/source/ca.update.applications/usr/local/emhttp/plugins/ca.update.applications/images/ca.update.applications.png</Icon>

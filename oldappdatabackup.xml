@@ -10,53 +10,6 @@
 <Description>
 Community Applications appdata backup / restore module allows you to easily (and on a schedule) create backups of your docker appdata folder and restore them in the event of a cache drive failure.
 </Description>
-<Changes>
-###2017.09.23
-- Fixed: Long foldernames being truncated on excluded folder browser
-
-###2017.06.12
-- Instead of VM XML backup, switch to backing up libvirt.img
-- 6.4 Compatibility Update
-- *** 6.4 users should REBOOT after installing this update ***
-
-###2017.06.04
-- Preserve file modification times on XML and Flash backup
-- Add in support for time before forcibly killing a docker process during stop process (default: 10 seconds)
-
-###2017.04.01
-- Add in ability to run at differing 'nice' levels
-
-###2017.02.21
-- Changed port available criteria on restarting to be more accurate and support IP address
-
-###2017.02.19
-- Added: Support for CA Docker Autostart's wait for port feature
-
-###2017.01.08
-- Fixed: Under certain circumstances the logging could incorrectly go into the syslog
-
-###2016.12.18
-- Force tabbed mode on settings
-
-###2016.12.07
-- Suppress error on unRaid 6.1.x
-
-###2016.12.05
-- Fixed: Under certain cicumstances unable to powerdown if a backup/restore was in progress
-
-###2016.11.27
-- Option to run CA Auto Update (if installed) after a backup is completed to install any available updates
-- Ability to specify to not shutdown certain apps when backing up - Advanced
-
-###2016.11.15
-- Backup nvram files with VM xmls
-
-###2016.11.14
-- Support CA Docker Autostart Manager settings (if installed)
-
-###2016.11.11
-- Initial Separated Release
-</Changes>
 <Date>2017-09-23</Date>
 <Support>http://lime-technology.com/forum/index.php?topic=53694.0</Support>
 <Icon>https://github.com/Squidly271/ca.backup/raw/master/source/ca.backup/usr/local/emhttp/plugins/ca.backup/images/ca.backup.png</Icon>

@@ -10,26 +10,6 @@
 <Description>
 Community Applications' Cleanup Appdata will scan your appdata share to determine which folders are no longer in use (from uninstalled docker applications) and allow you to delete them easily to free up hard disk space
 </Description>
-<Changes>
-###2018.12.31
-- Add in some checks for when user had a severely misconfigured application previously installed
-
-###2018.10.19
-- Fix broken pipe
-
-###2018.03.15
-- Ignore metadata files created by OSX
-
-###2017.11.23
-- Relocate Icon to Settings / User Utilities
-- Reorganization as part of updates to CA proper
-
-###2017.01.28
-- Fixed: Errors when no templates have any possibilities for cleanup
-
-###2016.11.11
-- Initial Separated Release
-</Changes>
 <Deprecated>true</Deprecated>
 <ModeratorComment>Because this plugin has the ability to delete your entire array in the case of a severely misconfigured docker application, it is now deprecated in favour of manually deleting the appdata folders via Krusader and the like.</ModeratorComment>
 <Date>2018-10-19</Date>

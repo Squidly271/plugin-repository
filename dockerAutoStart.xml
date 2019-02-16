@@ -10,34 +10,6 @@
 <Description>
 Community Applications' Docker Autostart Manager allows you to specify the order in which docker applications start up, along with selectable delays between starts of applications
 </Description>
-<Changes>
-###2017.12.19
-- Suppress error if no apps were ever set to autostart
-
-###2017.11.23
-- Reorganization as part of updates to CA proper
-
-###2017.08.05
-- Fixed: Errors if all apps set to be managed start
-
-###2017.02.21
-- Changed port available criteria to a more accurate one, and add in IP addresses to test
-
-###2017.02.18
-- Added: Option to wait until a port is available from the app before carrying on
-
-###2016.12.17
-- Fixed: Remove not installed apps when updating settings
-
-###2016.12.08
-- Fixed: Under certain circumstances, a spurious Cron Job email could be sent out.
-
-###2016.11.25
-- Changes to let unRaid webGUI start when long delays on startup apps are present
-
-###2016.11.13
-- Initial Release
-</Changes>
 <MinVer>6.3.0-rc2</MinVer>
 <DeprecatedMaxVer>6.5.3</DeprecatedMaxVer>
 <DeprecatedComment>Much of the functionality of this plugin has been incorporated into unRaid 6.6+</DeprecatedComment>

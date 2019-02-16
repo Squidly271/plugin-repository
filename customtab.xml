@@ -8,37 +8,6 @@
 <Name>Custom Tab</Name>
 <Description>
 A very simple plugin to allow you to place any webpage (or web app's GUI) onto the tabs of unRaid's GUI</Description>
-<Changes>
-###2018.10.19
-- Fix broken pipe
-
-###2018.10.08
-- Add ability to open a url in same tab instead of frame (ie: bookmark)
-
-###2018.04.14
-- Added in ability to place tabs anywhere on the tab bar.
-
-###2017.12.13
-- Added note warning if using HTTPS to access server that all URLs must also use HTTPS
-
-###2017.11.23
-- Fixed: Settings icon on unRaid 6.4
-
-###2017.09.23
-- Fixed: Change focus to iframe when loaded (IE: Keyboard now works on URL tabs)
-
-###2017.06.24
-- Support Adding any unRaid page file as a custom tab
-
-###2017.06.18
-- Support custom icons on 6.4 - Azure / Gray themes
-
-###2017.05.14
-- Support Multiple Custom Tabs
-
-###2017.05.06
-- Initial Release
-</Changes>
 <Date>2018-10-19</Date>
 <Support>https://forums.lime-technology.com/topic/57109-plugin-custom-tab/</Support>
 <Icon>https://github.com/Squidly271/customtab/raw/master/source/customtab/usr/local/emhttp/plugins/customtab/images/customlarge.png</Icon>

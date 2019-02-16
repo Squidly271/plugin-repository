@@ -11,10 +11,6 @@
 A simple plugin to add in some common links to the bottom of the GUI</Description>
 <Date>2018-12-08</Date>
 <MinVer>6.6.0</MinVer>
-<Changes>
-###2018-12-08
-- Initial Release
-</Changes>
 <Support>https://forums.unraid.net/topic/76206-plugin-gui-links/</Support>
 <Icon>https://github.com/Squidly271/gui-links/raw/master/source/gui-links/usr/local/emhttp/plugins/gui-links/images/gui-links.png</Icon>
 <IconFA>link</IconFA>
