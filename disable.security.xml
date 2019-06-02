@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/Squidly271/disable.security/master/plugins/disable.security.plg</PluginURL>
+<PluginAuthor>Andrew Zawadzki / cybrnook</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:System</Category>
+<Name>Disable Security Mitigations</Name>
+<Beta>true</Beta>
+<Description>
+Allows you to disable the OS mitigations for Spectre, Meltdown, and Zombieload (MDS) to possibly improve your CPU speed.  Use at own risk.  There are valid security issues caused by disabling the mitigations under certain workloads</Description>
+<Support>https://forums.unraid.net/topic/80563-plugin-disable-security-mitigations/</Support>
+<MinVer>6.7.0</MinVer>
+<IconFA>bolt</IconFA>
+<DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
+<DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=7M7CBCVU732XG</DonateLink>
+</Containers>
+
