@@ -10,7 +10,6 @@
 <Description>
 Community Applications' Cleanup Appdata will scan your appdata share to determine which folders are no longer in use (from uninstalled docker applications) and allow you to delete them easily to free up hard disk space
 </Description>
-<Deprecated>true</Deprecated>
 <ModeratorComment>Because this plugin has the ability to delete your entire array in the case of a severely misconfigured docker application, it is now deprecated in favour of manually deleting the appdata folders via Krusader and the like.</ModeratorComment>
 <Date>2018-10-19</Date>
 <Support>http://lime-technology.com/forum/index.php?topic=53695.0</Support>
