@@ -13,7 +13,6 @@ Allows unRaid's GUI to utilize the full browser window width instead of being li
 <MinVer>6.6.0</MinVer>
 <Support>https://forums.unraid.net/topic/76211-plugin-ca-dynamix-unlimited-width/</Support>
 <Icon>https://github.com/Squidly271/unlimited-width/raw/master/Webp.net-resizeimage.png</Icon>
-<IconFA>arrows-h</IconFA>
 <DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
 <DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=7M7CBCVU732XG</DonateLink>
 </Containers>
