@@ -7,7 +7,7 @@
 <Category>Tools:System Network:Other Security:</Category>
 <Name>No Referrals</Name>
 <Description>
-A very simple plugin that blocks the referral header being sent when clicking any link within unRaid's GUI that takes you to a third party website
+A very simple plugin that blocks the referral header being sent when clicking any link within unRaid's GUI that takes you to a third party website.  IE: It preserves you anonymity and the 3rd Party website will not know your server's URL. 
 </Description>
 <IconFA>lock</IconFA>
 <DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=7M7CBCVU732XG</DonateLink>
