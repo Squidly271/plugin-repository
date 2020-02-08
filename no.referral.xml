@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/Squidly271/no.referrer/master/plugins/no.referrer.plg</PluginURL>
+<PluginAuthor>Andrew Zawadzki</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:System Network:Other</Category>
+<Name>No Referrals</Name>
+<Description>
+A very simple plugin that blocks the referral header being sent when clicking any link within unRaid's GUI that takes you to a third party website
+</Description>
+<IconFA>lock</Icon>
+<DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
+<DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=7M7CBCVU732XG</DonateLink>
+</Containers>
+
