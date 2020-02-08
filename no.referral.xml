@@ -4,7 +4,7 @@
 <PluginURL>https://raw.githubusercontent.com/Squidly271/no.referrer/master/plugins/no.referrer.plg</PluginURL>
 <PluginAuthor>Andrew Zawadzki</PluginAuthor>
 <Beta>False</Beta>
-<Category>Tools:System Network:Other</Category>
+<Category>Tools:System Network:Other Security:</Category>
 <Name>No Referrals</Name>
 <Description>
 A very simple plugin that blocks the referral header being sent when clicking any link within unRaid's GUI that takes you to a third party website
