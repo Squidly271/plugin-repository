@@ -8,8 +8,7 @@
 <Category>Tools:System</Category>
 <Name>Ransomware Protection</Name>
 <Description>
-Ransomware Protection is a type of anti-virus program designed to protect your server from a ransomware attack
-&lt;script&gt;test&lt;/script&gt;</Description>
+Ransomware Protection is a type of anti-virus program designed to protect your server from a ransomware attack</Description>
 <Date>2018-07-02</Date>
 <Support>http://lime-technology.com/forum/index.php?topic=52462.0</Support>
 <Icon>https://github.com/Squidly271/ransomware.bait/raw/master/source/ransomware.bait/usr/local/emhttp/plugins/ransomware.bait/images/biglock.png</Icon>
