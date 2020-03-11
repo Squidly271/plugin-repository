@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
 <Plugin>True</Plugin>
-<PluginURL>https://raw.githubusercontent.com/Squidly271/ca.mover.tuning/master/plugins/ca.mover.tuning.plg</PluginURL>
-<PluginAuthor>Andrew Zawadzki</PluginAuthor>
+<PluginURL>https://raw.githubusercontent.com/hugenbd/ca.mover.tuning/master/plugins/ca.mover.tuning.plg</PluginURL>
+<PluginAuthor>Andrew Zawadzki Modified by hugenbdd</PluginAuthor>
 <Beta>False</Beta>
 <Category>Tools:System</Category>
 <Name>CA Mover Tuning</Name>
