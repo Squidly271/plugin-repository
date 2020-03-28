@@ -5,6 +5,7 @@
 <PluginAuthor>Andrew Zawadzki</PluginAuthor>
 <Beta>False</Beta>
 <Category>Tools:System</Category>
+<multiLanguage>true</multiLanguage>
 <Name>Community Applications</Name>
 <Description>
 This is THE place to find add-on applications for your unRaid server.
