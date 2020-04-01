@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Container version="2">
   <Name>TESTING</Name>
-  <Repository>jlesage/filezilla</Repository>
+  <Repository>hello-world</Repository>
   <Registry>https://hub.docker.com/r/jlesage/filezilla/</Registry>
   <Network>bridge</Network>
   <MyIP/>
