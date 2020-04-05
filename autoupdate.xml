@@ -8,6 +8,7 @@
 <Name>CA Auto Update</Name>
 <CA>built-in</CA>
 <MinVer>6.4.0</MinVer>
+<multiLanguage>true</multiLanguage>
 <Description>
 Community Applications' auto update allows you to select which plugins to automatically keep up to date as updates become available.  Includes options to wait until an update is x number of days old before updating
 </Description>

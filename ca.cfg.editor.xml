@@ -6,6 +6,7 @@
 <Beta>False</Beta>
 <Category>Tools:System</Category>
 <Name>CA Config Editor</Name>
+<multiLanguage>true</multiLanguage>
 <CA>Addon</CA>
 <Description>
 CA Config Editor is a simple file editor for advanced users that will allow you to edit within your browser any of unRaid's configuration files (or any file on your server - useful for easily editing application's appdata config files without utilizing the command prompt)
