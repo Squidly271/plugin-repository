@@ -31,6 +31,21 @@
     </Publish>
   </Networking>
   <Data>
+    <Volume>
+      <HostDir>/mnt/poopoo/appdata/steamcmd/appdata/steamcmd</HostDir>
+      <ContainerDir>/serverdata/steamcmd</ContainerDir>
+      <Mode>rw</Mode>
+    </Volume>
+    <Volume>
+      <HostDir>/mnt/cache/appdata/conanexiles/</HostDir>
+      <ContainerDir>/serverdata/serverfiles</ContainerDir>
+      <Mode>rw</Mode>
+    </Volume>
+		    <Volume>
+      <HostDir>/mnt/disks/unassigneddevices/</HostDir>
+      <ContainerDir>/serverdata/serverfiles</ContainerDir>
+      <Mode>rw</Mode>
+    </Volume>
   </Data>
   <Environment>
     <Variable>
@@ -40,10 +55,4 @@
     </Variable>
   </Environment>
   <Labels/>
-  <Config Name="Host Port 1" Target="8080" Default="8081" Mode="tcp" Description="Container Port: 8080" Type="Port" Display="always" Required="true" Mask="false">8081</Config>
-  <Config Name="Host Path 1" Target="/rootfs" Default="/" Mode="ro" Description="Container Path: /rootfs" Type="Path" Display="always" Required="true" Mask="false">/</Config>
-  <Config Name="Host Path 2" Target="/var/run" Default="/var/run" Mode="rw" Description="Container Path: /var/run" Type="Path" Display="always" Required="true" Mask="false">/var/run</Config>
-  <Config Name="Host Path 3" Target="/sys" Default="/sys" Mode="ro" Description="Container Path: /sys" Type="Path" Display="always" Required="true" Mask="false">/sys</Config>
-  <Config Name="Host Path 4" Target="/var/lib/docker/" Default="/var/lib/docker/" Mode="ro" Description="Container Path: /var/lib/docker/" Type="Path" Display="always" Required="true" Mask="false">/var/lib/docker/</Config>
-  <Config Name="Key 1" Target="detach" Default="true" Mode="" Description="Container Variable: detach" Type="Variable" Display="always" Required="false" Mask="false">true</Config>
 </Container>
