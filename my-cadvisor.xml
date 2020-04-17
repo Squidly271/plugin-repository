@@ -31,26 +31,6 @@
     </Publish>
   </Networking>
   <Data>
-    <Volume>
-      <HostDir>/</HostDir>
-      <ContainerDir>/rootfs| ls</ContainerDir>
-      <Mode>ro</Mode>
-    </Volume>
-    <Volume>
-      <HostDir>/var/run</HostDir>
-      <ContainerDir>/var/run</ContainerDir>
-      <Mode>rw</Mode>
-    </Volume>
-    <Volume>
-      <HostDir>/sys</HostDir>
-      <ContainerDir>/sys</ContainerDir>
-      <Mode>ro</Mode>
-    </Volume>
-    <Volume>
-      <HostDir>/var/lib/docker/</HostDir>
-      <ContainerDir>/var/lib/docker/</ContainerDir>
-      <Mode>ro</Mode>
-    </Volume>
   </Data>
   <Environment>
     <Variable>
