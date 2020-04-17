@@ -39,9 +39,5 @@
     </Variable>
   </Environment>
   <Labels/>
-  <Config Name="Host Port 1" Target="8080" Default="8081" Mode="tcp" Description="Container Port: 8080" Type="Port" Display="always" Required="true" Mask="false">8081</Config>
   <Config Name="Host Path 1" Target="/serverdata/steamcmd" Default="/mnt/pool2/appdata/steamcmd/appdata/steamcmd" Mode="rw" Description="Container Path: /serverdata/steamcmd" Type="Path" Display="always" Required="true" Mask="false">/mnt/pool2/appdata/steamcmd/appdata/steamcmd</Config>
-  <Config Name="Host Path 2" Target="/serverdata/serverfiles" Default="/mnt/cache/appdata/conanexiles/" Mode="rw" Description="Container Path: /serverdata/serverfiles" Type="Path" Display="always" Required="true" Mask="false">/mnt/cache/appdata/conanexiles/</Config>
-  <Config Name="Host Path 3" Target="/serverdata/serverfiles" Default="/mnt/disks/unassigneddevices/" Mode="rw" Description="Container Path: /serverdata/serverfiles" Type="Path" Display="always" Required="true" Mask="false">/mnt/disks/unassigneddevices/</Config>
-  <Config Name="Key 1" Target="detach" Default="true" Mode="" Description="Container Variable: detach" Type="Variable" Display="always" Required="false" Mask="false">true</Config>
 </Container>
