@@ -39,5 +39,4 @@
     </Variable>
   </Environment>
   <Labels/>
-  <Config Name="Host Path 1" Target="/serverdata/steamcmd" Default="/mnt/pool2/appdata/steamcmd/appdata/steamcmd" Mode="rw" Description="Container Path: /serverdata/steamcmd" Type="Path" Display="always" Required="true" Mask="false">/mnt/pool2/appdata/steamcmd/appdata/steamcmd</Config>
 </Container>
