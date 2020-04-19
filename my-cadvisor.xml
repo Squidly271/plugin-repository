@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Container version="2">
   <Name>TESTONLYDONOTINSTALL</Name>
-  <Repository>google/cadvisor:latest</Repository>
+  <Repository>google/cadvisor87687:latest</Repository>
   <Registry>https://registry.hub.docker.com/r/google/cadvisor/</Registry>
   <Network>bridge</Network>
   <MyIP/>
