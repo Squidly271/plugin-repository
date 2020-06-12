@@ -5,12 +5,14 @@
 <LanguageLocal>Nederlands</LanguageLocal>
 <LanguagePack>nl_NL</LanguagePack>
 <Author>Bergware</Author>
-<Name>Nederlands taalpakket</Name>
+<Name>TEST ONLY</Name>
 <TemplateURL>https://raw.githubusercontent.com/limetech/docker-templates/master/limetech/lang-nl_NL.xml</TemplateURL>
 <Version>2020.06.08</Version>
 <Icon>https://raw.githubusercontent.com/limetech/docker-templates/master/limetech/Green-Earth-Transparent-File.png</Icon>
 <Description>
-TEST ONLY.  DO NOT INSTALL  
+Dit is een Nederlandse vertaling voor Unraid en ondersteunde plug-ins.
+
+This is a Dutch translation for Unraid and supported plugins.
 </Description>
 <Changes>
 ###2020.06.08
