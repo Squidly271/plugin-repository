@@ -5,7 +5,7 @@
 <PluginAuthor>Andrew Zawadzki</PluginAuthor>
 <Beta>False</Beta>
 <Category>Tools:System</Category>
-<Name>CA Dynamix Unlimited Width</Name>
+<Name>Unlimited Width</Name>
 <CA>AddOn</CA>
 <Description>
 Allows unRaid's GUI to utilize the full browser window width instead of being limited to a maximum of 1920 pixel across</Description>
