@@ -3,7 +3,7 @@
 <Plugin>True</Plugin>
 <PluginURL>https://raw.githubusercontent.com/Squidly271/disable.security/master/plugins/disable.security.plg</PluginURL>
 <PluginAuthor>Andrew Zawadzki / cybrnook</PluginAuthor>
-<Category>Tools:System</Category>
+<Category>Tools:System Security:</Category>
 <Name>Disable Security Mitigations</Name>
 <multiLanguage>true</multiLanguage>
 <Description>
