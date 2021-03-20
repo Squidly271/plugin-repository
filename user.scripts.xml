@@ -12,7 +12,7 @@ CA User scripts is designed to be a front end to execute user scripts without ha
 <Date>2018-10-19</Date>
 <MinVer>6.3.3</MinVer>
 <Support>http://lime-technology.com/forum/index.php?topic=49992.0</Support>
-<ExtraSearchTerms>crontab cron%20schedule%20(linux)</ExtraSearchTerms>
+<ExtraSearchTerms>crontab cron schedule</ExtraSearchTerms>
 <Icon>https://raw.githubusercontent.com/Squidly271/user.scripts/master/source/user.scripts/usr/local/emhttp/plugins/user.scripts/images/user.scripts.png</Icon>
 <DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
 <DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=7M7CBCVU732XG</DonateLink>
