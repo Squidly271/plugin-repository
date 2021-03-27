@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/Squidly271/gui.search/main/plugins/gui.search.plg</PluginURL>
+<PluginAuthor>Andrew Zawadzki</PluginAuthor>
+<Beta>True</Beta>
+<Category>Tools:System</Category>
+<Name>GUI Search</Name>
+<Description>
+A simple plugin that indexes all of the pages in the GUI and allows you to search for them.  No more wondering if the page is in Utilities, Tools, or System Information</Description>
+<Support>https://forums.unraid.net/topic/104822-plugin-gui-search/</Support>
+<IconFA>search</Icon>
+<DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
+<DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=7M7CBCVU732XG</DonateLink>
+</Containers>
+
