@@ -3,7 +3,7 @@
 <Plugin>True</Plugin>
 <PluginURL>https://raw.githubusercontent.com/Squidly271/gui.search/main/plugins/gui.search.plg</PluginURL>
 <PluginAuthor>Andrew Zawadzki</PluginAuthor>
-<Beta>True</Beta>
+<Beta>False</Beta>
 <Category>Tools:System</Category>
 <Name>GUI Search</Name>
 <Description>
