@@ -5,7 +5,7 @@
 <PluginAuthor>Andrew Zawadzki</PluginAuthor>
 <Beta>False</Beta>
 <Category>Tools:System</Category>
-<Name>CA Fix Common Problems</Name>
+<Name>Fix Common Problems</Name>
 <CA>AddOn</CA>
 <Description>
 CA Fix Common Problems is designed to find and suggest solutions to common unRaid configuration errors, common problems, etc.

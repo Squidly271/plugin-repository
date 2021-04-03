@@ -5,7 +5,7 @@
 <PluginAuthor>Andrew Zawadzki</PluginAuthor>
 <Beta>False</Beta>
 <Category>Tools:System</Category>
-<Name>CA Auto Update</Name>
+<Name>Auto Update Applications</Name>
 <CA>built-in</CA>
 <MinVer>6.4.0</MinVer>
 <multiLanguage>true</multiLanguage>

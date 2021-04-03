@@ -5,7 +5,7 @@
 <PluginAuthor>Andrew Zawadzki</PluginAuthor>
 <Beta>False</Beta>
 <Category>Tools:System</Category>
-<Name>CA Appdata Cleanup</Name>
+<Name>Appdata Cleanup</Name>
 <CA>built-in</CA>
 <Description>
 Community Applications' Cleanup Appdata will scan your appdata share to determine which folders are no longer in use (from uninstalled docker applications) and allow you to delete them easily to free up hard disk space

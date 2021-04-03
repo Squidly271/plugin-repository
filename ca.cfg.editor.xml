@@ -5,7 +5,7 @@
 <PluginAuthor>Andrew Zawadzki</PluginAuthor>
 <Beta>False</Beta>
 <Category>Tools:System</Category>
-<Name>CA Config Editor</Name>
+<Name>Config Editor</Name>
 <multiLanguage>true</multiLanguage>
 <CA>Addon</CA>
 <Description>
