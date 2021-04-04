@@ -11,6 +11,7 @@ Allows you to make you own notes for every page on the Unraid GUI
 </Description>
 <Support>https://forums.unraid.net/topic/105155-plugin-user-notes/</Support>
 <IconFA>edit</IconFA>
+<MinVer>6.8.3</MinVer>
 <DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
 <DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=7M7CBCVU732XG</DonateLink>
 </Containers>
