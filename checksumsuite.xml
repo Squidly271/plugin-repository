@@ -9,7 +9,10 @@
 <Description>
 This plugin automatically creates md5/sha/blake2 checksums for new files on the array.  Check for corruption.  Beta: create and repair corruptions using par2 sets
 </Description>
-<Requires>line1\nline2</Requires>
+<Requires>
+**boldface** line #1&#xD;
+**more bold** line #2
+</Requires>
 <Support>http://lime-technology.com/forum/index.php?topic=43396.0</Support>
 <Icon>https://raw.githubusercontent.com/Squidly271/checksum/master/source/checksum/usr/local/emhttp/plugins/checksum/images/checksum.png</Icon>
 <Date>2018-11-30</Date>
