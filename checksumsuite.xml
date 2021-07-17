@@ -10,9 +10,9 @@
 This plugin automatically creates md5/sha/blake2 checksums for new files on the array.  Check for corruption.  Beta: create and repair corruptions using par2 sets
 </Description>
 <Requires>
-**Nvidia Driver plugin** (nVidia Support) *or*
-**Intel GPU TOP plugin** (Intel Support) *or*
-**AMD Driver** and **RadeonTop plugins** (AMD Support)
+        **Nvidia Driver plugin** (nVidia Support) *or*
+        **Intel GPU TOP plugin** (Intel Support) *or*
+        **AMD Driver** and **RadeonTop plugins** (AMD Support)
 </Requires>
 <Support>http://lime-technology.com/forum/index.php?topic=43396.0</Support>
 <Icon>https://raw.githubusercontent.com/Squidly271/checksum/master/source/checksum/usr/local/emhttp/plugins/checksum/images/checksum.png</Icon>
