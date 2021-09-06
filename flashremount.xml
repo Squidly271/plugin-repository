@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL></PluginURL>
+<PluginAuthor>Andrew Zawadzki</PluginAuthor>
+<Beta>True</Beta>
+<Category>Tools:System</Category>
+<Name>Flash Remount</Name>
+<CA>AddOn</CA>
+<Description>
+A simple plugin designed to remount your Unraid flash boot drive if it should inadvertently be dropped from the system</Description>
+<Date>2018-12-08</Date>
+<MinVer>6.6.0</MinVer>
+<Support>https://forums.unraid.net/topic/113396-plugin-remount-flash-drive/</Support>
+<IconFA>usb</IconFA>
+<DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
+<DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=7M7CBCVU732XG</DonateLink>
+</Containers>
+
