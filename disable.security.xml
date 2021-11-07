@@ -13,5 +13,6 @@ Allows you to disable the OS mitigations for Spectre, Meltdown, and Zombieload (
 <IconFA>bolt</IconFA>
 <DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
 <DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=7M7CBCVU732XG</DonateLink>
+<Screenshot>https://github.com/Squidly271/community.applications/raw/master/webImages/diable%20mitigations.jpg</Screenshot>
 </Containers>
 
