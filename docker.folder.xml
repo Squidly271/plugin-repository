@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<PluginURL>https://raw.githubusercontent.com/Squidly271/docker.folder/main/plugins/docker.folder.plg</PluginURL>
+<PluginAuthor>GuildDarts/Squid</PluginAuthor>
+<Support>https://forums.unraid.net/topic/89702-plugin-docker-folder/</Support>
+<Project>https://github.com/GuildDarts/unraid-plugin-docker.folder</Project>
+<Beta>True</Beta>
+<Category>Tools:System</Category>
+<Name>Docker Folder</Name>
+<Description>
+Docker Folder lets you create folders for grouping dockers and VMs together to help with organization. Especially useful if you're using docker-compose.‏‏‎
+Getting Started: A new button named "add folder" will appear at the bottom of the docker tab next to "add container"
+
+NOTE: This plugin is forked from the original project for compatibility with Unraid 6.10.0  No guarantees are made on this fork, but attempts will be made to keep the functionality of the plugin working on 6.10
+</Description>
+<Icon>https://raw.githubusercontent.com/GuildDarts/unraid-plugin-docker.folder/master/icon/docker.folder_icon.png</Icon>
+</Containers>
