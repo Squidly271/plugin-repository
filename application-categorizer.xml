@@ -10,7 +10,7 @@
 <MinVer>6.0</MinVer>
 <Licence>Public Domain123</Licence>
 <Description>
-This plugin is for application developers ONLY.  It will create the category entries for application templates so that Community Applications can display the apps correctly.  (Either docker apps or plugins)
+This plugin is for application developers ONLY.  It will create the category entries for application templates so that Community Applications can display the apps correctly.  (Either docker apps or plugins)  https://forums.unraid.net/discover/92
 </Description>
 <Support>http://lime-technology.com/forum/index.php?topic=40111.0</Support>
 <IconFA>list-alt</IconFA>
