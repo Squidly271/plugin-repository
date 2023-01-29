@@ -7,8 +7,7 @@
 <Category>Tools:System</Category>
 <Name>Docker Patch</Name>
 <Description>
-CA Config Editor is a simple file editor for advanced users that will allow you to edit within your browser any of unRaid's configuration files (or any file on your server - useful for easily editing application's appdata config files without utilizing the command prompt)
-</Description>
+Patches Docker to be able to check for updates on certain containers.  Needed if you are always seeing "Not Available" when checking for updates</Description>
 <Date>2023-01-23</Date>
 <Support>https://forums.unraid.net/topic/134016-fix-to-a-small-issue-with-updating-oci-docker-images/</Support>
 <Icon>https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2022/01/how-to-sew-on-a-patch_1-e1642544715807.jpg</Icon>
