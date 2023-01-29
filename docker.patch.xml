@@ -5,7 +5,7 @@
 <PluginAuthor>Andrew Zawadzki</PluginAuthor>
 <Beta>False</Beta>
 <Category>Tools:System</Category>
-<Name>Docker Patch</Name>
+<Name>Docker Update Patch</Name>
 <Description>
 Patches Docker to be able to check for updates on certain containers.  Needed if you are always seeing "Not Available" when checking for updates.
 
