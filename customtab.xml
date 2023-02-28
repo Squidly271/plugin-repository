@@ -9,7 +9,7 @@
 <Description>
 A very simple plugin to allow you to place any webpage (or web app's GUI) onto the tabs of unRaid's GUI</Description>
 <Date>2018-10-19</Date>
-<Support>https://forums.lime-technology.com/topic/57109-plugin-custom-tab/</Support>
+<Support>https://forums.unraid.net/topic/57109-plugin-custom-tab/</Support>
 <Icon>https://github.com/Squidly271/customtab/raw/master/source/customtab/usr/local/emhttp/plugins/customtab/images/customlarge.png</Icon>
 <DonateImg>https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif</DonateImg>
 <DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=7M7CBCVU732XG</DonateLink>
