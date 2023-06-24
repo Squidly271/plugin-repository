@@ -13,4 +13,5 @@ This plugin is for application developers ONLY.  It will create the category ent
 </Description>
 <Support>https://forums.unraid.net/topic/38431-plug-in-application-template-categorizer/</Support>
 <IconFA>list-alt</IconFA>
+<Licence>https://github.com/maubot/maubot/blob/master/LICENSE</Licence>
 </Containers>
