@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/Squidly271/docker.patch2/main/plugins/docker.patch2.plg</PluginURL>
+<PluginAuthor>Andrew Zawadzki</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:System</Category>
+<Name>Docker Patch 6.12.8</Name>
+<Description>
+This plugin does a quick patch to the docker system on 6.12.8 only to prevent any empty host paths or container paths which may be present in an already installed template (or on a new installation) from triggering an error (and creating an orphan image) when updating the application.
+
+NOTE: This is NOT a bug or issue with Unraid.</Description>
+<Date>2024-02-17</Date>
+<IconFA>bug</IconFA>
+</Containers>
