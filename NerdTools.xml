@@ -10,7 +10,7 @@
 This plugin allows installation of extra packages, mostly CLI, for advanced users. Use at your own risk. Not officially supported by LimeTech.  Note that this plugin is not currently supported and this project is looking for someone to fork it and keep it alive.
 </Description>
 <Support>https://forums.unraid.net/topic/129200-plug-in-nerdtools/</Support>
-<Icon>https://raw.githubusercontent.com/UnRAIDES/unRAID-NerdTools/main/plugin/NerdTools.png</IIcon>
+<Icon>https://raw.githubusercontent.com/UnRAIDES/unRAID-NerdTools/main/plugin/NerdTools.png</Icon>
 <MinVer>6.11.0</MinVer>
 </Containers>
 
