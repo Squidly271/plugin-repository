@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
 <Plugin>True</Plugin>
-<PluginURL>hhttps://raw.githubusercontent.com/UnRAIDES/unRAID-NerdTools/main/plugin/NerdTools.plg</PluginURL>
+<PluginURL>https://raw.githubusercontent.com/UnRAIDES/unRAID-NerdTools/main/plugin/NerdTools.plg</PluginURL>
 <PluginAuthor>unRaid.es</PluginAuthor>
 <Beta>False</Beta>
 <Category>Tools:System</Category>
