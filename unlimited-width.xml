@@ -11,7 +11,7 @@
 Allows unRaid's GUI to utilize the full browser window width instead of being limited to a maximum of 1920 pixel across</Description>
 <Date>2018-12-08</Date>
 <MinVer>6.6.0</MinVer>
-<MaxVer>6.12.9</MaxVer>
+<MaxVer>6.12.99</MaxVer>
 <ExtraSearchTerms>ultrawide</ExtraSearchTerms>
 <Support>https://forums.unraid.net/topic/76211-plugin-ca-dynamix-unlimited-width/</Support>
 <Icon>https://github.com/Squidly271/unlimited-width/raw/master/Webp.net-resizeimage.png</Icon>
