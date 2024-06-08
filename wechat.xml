@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/Squidly271/Wxwork-sample/main/wxwork-sample.plg</PluginURL>
+<PluginAuthor>Andrew Zawadzki / Alimighty.Yantao</PluginAuthor>
+<Beta>False</Beta>
+<Category>Messengers:</Category>
+<Name>微信通知 (WeChat Notification)</Name>
+<Description>
+将微信通知添加到你的服务器  Adds WeChat Notifications to your server</Description>
+<Icon>https://raw.githubusercontent.com/Squidly271/plugin-repository/master/wechat.png</Icon>
+</Containers>
