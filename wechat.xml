@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
 <Plugin>True</Plugin>
-<PluginURL>https://raw.githubusercontent.com/Squidly271/Wxwork-sample/main/Wxwork-sample.plg</PluginURL>
+<PluginURL>https://raw.githubusercontent.com/Squidly271/Wxwork-sample/main/wxwork-sample.plg</PluginURL>
 <PluginAuthor>Andrew Zawadzki / Alimighty.Yantao</PluginAuthor>
 <Beta>False</Beta>
 <Category>Productivity:</Category>
