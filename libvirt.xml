@@ -15,4 +15,5 @@ A Plugin for Hot-plugging USB Devices to Running VMs. Libvirt Hotplug USB allows
 </Description>
 <Support>https://lime-technology.com/forums/topic/70001-libvirt-hot-plugin-usb-usb-hot-plugin-for-vms/?tab=comments#comment-640678</Support>
 <IconFA>usb</IconFA>
+<Deprecated>true</Deprecated>
 </Containers>
