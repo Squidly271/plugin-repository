@@ -8,5 +8,6 @@
 <Name>微信通知 (WeChat Notification)</Name>
 <Description>
 将微信通知添加到你的服务器  Adds WeChat Notifications to your server</Description>
+  <ModeratorComment>test &ltlscript&gt;alert();&lt;/script&gt;</ModeratorComment>
 <Icon>https://raw.githubusercontent.com/Squidly271/plugin-repository/master/wechat.png</Icon>
 </Containers>
