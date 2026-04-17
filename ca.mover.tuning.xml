@@ -7,6 +7,9 @@
 <Category>Tools:System</Category>
 <Name>Mover Tuning</Name>
 <CA>Addon</CA>
+<CAComment>TEST</CAComment>
+  <ModeratorComment>Test2</ModeratorComment>
+  <HideFromCA>true</HideFromCA>
 <Description>
 A simple plugin to fine tune the operation of the scheduled mover script.  Only run when cache space is getting low; don't run if a parity check / rebuild is in progress; Or completely disable the scheduled moves
 </Description>

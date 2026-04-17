@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<PluginURL>https://raw.githubusercontent.com/Squidly271/unraid-theme-engine/master/plugins/theme.engine.plg</PluginURL>
+<PluginAuthor>Justin Nolan / Skitals</PluginAuthor>
+<Beta>True</Beta>
+<Category>Tools:System Tools:Themes</Category>
+<Name>Theme Engine</Name>
+<Description>
+Theme Engine lets you re-style the unRAID webGui. Instead of creating a whole new theme, it adjusts settings that override the theme you are already using. You can adjust as few or as many settings as you like. Mixing and matching the base themes with Theme Engine settings creates endless possibilities. Import one of the included styles, or remix and export your own. 
+</Description>
+<Support>https://forums.unraid.net/topic/87126-plugin-theme-engine-a-webgui-styler/</Support>
+<Icon>https://raw.githubusercontent.com/Skitals/unraid-ca-templates/master/icons/theme.engine.png</Icon>
+<IconFA>paint-brush</IconFA>
+</Containers>

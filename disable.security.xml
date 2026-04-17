@@ -6,6 +6,8 @@
 <Category>Tools:System Security:</Category>
 <Name>Disable Security Mitigations</Name>
 <multiLanguage>true</multiLanguage>
+<Official>true</Official>
+<LTOfficial>true</LTOfficial>
 <Description>
 Allows you to disable the OS mitigations for Spectre, Meltdown, and Zombieload (MDS) to possibly improve your CPU speed.  Use at own risk.  There are valid security issues caused by disabling the mitigations under certain workloads</Description>
 <Support>https://forums.unraid.net/topic/80563-plugin-disable-security-mitigations/</Support>
