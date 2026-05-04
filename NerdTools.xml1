@@ -20,6 +20,6 @@
   <Category>Tools:</Category>
   <Support>https://forums.unraid.net/topic/198334-rebalance-array-disk-usage-balancer/</Support>
   <Project>https://github.com/Esteban4u/ReBalance</Project>
-  <PluginURL>https://raw.githubusercontent.com/Esteban4u/ReBalance/main/rebalance.plg</PluginURL>
-  <MinVer>6.12</MinVer>
+<PluginURL>https://raw.githubusercontent.com/UnRAIDES/unRAID-NerdTools/main/plugin/NerdTools.plg</PluginURL>
+<MinVer>6.12</MinVer>
 </Plugin>
