@@ -4,7 +4,7 @@
   <Author>Esteban4u</Author>
   <Version>2026.04.18</Version>
   <Icon>https://raw.githubusercontent.com/Esteban4u/ReBalance/main/plugin/images/rebalance.svg</Icon>
-  <Overview>Balances disk usage percentage across mixed-capacity Unraid array drives by moving files from over-used to under-used disks.</Overview>
+  <Overview>TEST TEST TEST DO NOT USE  Balances disk usage percentage across mixed-capacity Unraid array drives by moving files from over-used to under-used disks.</Overview>
   <Description>
     Balances disk usage percentage across mixed-capacity array drives. If you have a mix of 4TB and 2TB disks, Unraid's default fill strategies leave disks at very different usage percentages. ReBalance fixes this by moving files so every disk sits at roughly the same fill level, regardless of its size.[br][br]
     [b]Features:[/b][br]
